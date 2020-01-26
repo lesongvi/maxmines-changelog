@@ -1,6 +1,6 @@
 # maxmines-changelog
 ## Cập nhật API (ngày 26/01/2020)
-- MaxMines HTTP API update global errors: Mã lỗi ~~bad_request~~ sẽ được thay thế bằng các mã lỗi cụ thể hơn như **wrong_method** (phương thức kết nối không hợp lệ), **missing_input** (thiếu giá trị đầu vào), **not_found** (điểm cuối API không hợp lệ)
+- MaxMines HTTP API update global errors: Mã lỗi ~~bad_request~~ được thay thế bằng các mã lỗi cụ thể hơn như **wrong_method** (phương thức kết nối không hợp lệ), **missing_input** (thiếu giá trị đầu vào), **not_found** (điểm cuối API không hợp lệ)
 - Fix bug API **/user/withdraw**, **/link/create**
 - Fix bug login **MaxMines for Mobile Speed Booster**
 - Vẫn có vấn đề với VISA nên chưa thể publish app **MaxMines for Mobile Speed Booster**
