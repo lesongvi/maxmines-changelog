@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Cập nhật UIMiner đơn giản (ngày 29/01/2020)
+- Cập nhật EventListener cho UIMiner [chi tiết tài liệu](https://maxmines.com/documentation/simple-ui)  
+``
+Tất cả các sự kiện từ API JavaScript được chuyển tiếp đến UIMiner. Vì simple-ui.min.js được tải không đồng bộ, bạn phải đợi cho đến khi nó được tải để cài đặt EventListener của bạn. Sử dụng biến toàn cục onMaxMinesUIReady.
+``
 ## Cập nhật mode (ngày 28/01/2020)
 - Cập nhật 3 chế độ đào coin mới xem chi tiết tại [MaxMines Javascript Mode](https://maxmines.com/documentation/miner#miner-start)
   
