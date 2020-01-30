@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Cập nhật MaxMines Captcha (ngày 30/01/2020)
+- Cập nhật một số thông báo lỗi cho Captcha MaxMines
+- Chuẩn bị update coin mới cho MaxMines, sẽ đào được nhiều coin cùng lúc
 ## Cập nhật UIMiner đơn giản (ngày 29/01/2020)
 - Cập nhật EventListener cho UIMiner [chi tiết tài liệu](https://maxmines.com/documentation/simple-ui)  
 ``
