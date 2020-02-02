@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhât nhỏ UI Miner (ngày 02/02/2020)
+- Ẩn nút stop khi đang đào, nút stop trước đây làm ẩn vài giá trị quan trọng
 ## Cập nhật MaxMines Captcha (ngày 30/01/2020)
 - Cập nhật một số thông báo lỗi cho Captcha MaxMines
 - Chuẩn bị update coin mới cho MaxMines, sẽ đào được nhiều coin cùng lúc
