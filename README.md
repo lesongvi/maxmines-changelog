@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Cập nhật giao diện MaxMines (ngày 03/02/2020)
+- MaxMines cập nhật giao diện mới tràn 2 bên trang
+- Làm nổi các thẻ tiêu đề trang.
 ## Cập nhât nhỏ UI Miner (ngày 02/02/2020)
 - Ẩn nút stop khi đang đào, nút stop trước đây làm ẩn vài giá trị quan trọng
 ## Cập nhật MaxMines Captcha (ngày 30/01/2020)
