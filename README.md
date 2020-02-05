@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật Admin Dashboard (ngày 05/02/2020)
+- Cập nhật Admin Dashboard mới cùng một số stuff
 ## Cập nhật giao diện MaxMines (ngày 03/02/2020)
 - MaxMines cập nhật giao diện mới tràn 2 bên trang
 - Làm nổi các thẻ tiêu đề trang.
