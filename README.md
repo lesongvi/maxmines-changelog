@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật thời gian thay đổi xuất chi 1M (ngày 07/02/2020)
+- Xuất chi được cập nhật mỗi 1 giờ của ngày chứ không phải theo giá trị không xác định như trước.
 ## Cập nhật Admin Dashboard (ngày 05/02/2020)
 - Cập nhật Admin Dashboard mới cùng một số stuff
 ## Cập nhật giao diện MaxMines (ngày 03/02/2020)
