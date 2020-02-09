@@ -2,6 +2,12 @@
 ## Chạy thử nghiệm bản vá bảo mật tháng 2 (ngày 09/02/2020)
 - Bản vá tháng 2 cập nhật thuật toán máy chủ mới.
 - Bảo mật chống gian lận.
+- MaxMines cập nhật thay đổi lớn trong thuật toán máy chủ và các file self-hosting, vì vậy nếu bạn không cập nhật các file lỗi thời các bạn sẽ bị mất tiền đã đào được. Mình sẽ không giải quyết các trường hợp sử dụng các file self-hosting lỗi thời bị mất tiền.
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
+```
+maxmines.min.js (Version: 1443090220, salt: Buxysh22)
+cachedmine.min.js (Version: 1443090220, salt: Yokaberp)
+```
 ## Cập nhật thời gian thay đổi xuất chi 1M (ngày 07/02/2020)
 - Xuất chi được cập nhật mỗi 1 giờ của ngày chứ không phải theo giá trị không xác định như trước.
 ## Cập nhật Admin Dashboard (ngày 05/02/2020)
