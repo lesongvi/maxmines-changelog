@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Chạy thử nghiệm bản vá bảo mật tháng 2 (ngày 09/02/2020)
+- Bản vá tháng 2 cập nhật thuật toán máy chủ mới.
+- Bảo mật chống gian lận.
 ## Cập nhật thời gian thay đổi xuất chi 1M (ngày 07/02/2020)
 - Xuất chi được cập nhật mỗi 1 giờ của ngày chứ không phải theo giá trị không xác định như trước.
 ## Cập nhật Admin Dashboard (ngày 05/02/2020)
