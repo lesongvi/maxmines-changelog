@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug shortlink (ngày 11/02/2020)
+- Fix bug shortlink bị lỗi token
 ## Chạy thử nghiệm bản vá bảo mật tháng 2 (ngày 09/02/2020)
 - Bản vá tháng 2 cập nhật thuật toán máy chủ mới.
 - Bảo mật chống gian lận.
