@@ -1,4 +1,10 @@
 # maxmines-changelog
+## Little bugs (ngày 12/02/2020)
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
+```
+maxmines.min.js (Version: 1448110220, salt: Terrixus)
+cachedmine.min.js (Version: 2048100220, salt: Fattez75)
+```
 ## Fix bug shortlink (ngày 11/02/2020)
 - Fix bug shortlink bị lỗi token
 ## Chạy thử nghiệm bản vá bảo mật tháng 2 (ngày 09/02/2020)
