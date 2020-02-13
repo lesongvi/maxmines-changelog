@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thống kê chi tiết hơn cho Admin (ngày 13/02/2020)
+- Làm tròn 2 chữ số thập phân thay vì xoá hẳn nó như trước đây, đem lại thống kê chi tiết và chính xác hơn.
 ## Little bugs (ngày 12/02/2020)
 - **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
 ```
