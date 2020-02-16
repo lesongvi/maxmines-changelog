@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update trang chủ (ngày 16/02/2020)
+- Cập nhật special miner cho trang chủ MaxMines (lưu ý: bản special miner này không thể được gọi qua [Giao diện miner đơn giản](https://maxmines.com/documentation/simple-ui) của MaxMines)
+- Chuẩn bị cho App MaxMines for Mobile mới.
 ## Thống kê chi tiết hơn cho Admin (ngày 13/02/2020)
 - Làm tròn 2 chữ số thập phân thay vì xoá hẳn nó như trước đây, đem lại thống kê chi tiết và chính xác hơn.
 ## Little bugs (ngày 12/02/2020)
