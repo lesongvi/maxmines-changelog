@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Lời nhắc (ngày 17/02/2020)
+- Nếu bạn đang sử dụng thư viện đào theo maxmines.min.js và không thể đào được, vui lòng tắt phần mềm diệt virus đi. Phần mềm diệt virus gây ra một số khó khăn khi sử dụng thư viện của maxmines.min.js, hoặc bạn có thể chuyển qua thư viện cachedmine.min.js.
 ## Update trang chủ (ngày 16/02/2020)
 - Cập nhật special miner cho trang chủ MaxMines (lưu ý: bản special miner này không thể được gọi qua [Giao diện miner đơn giản](https://maxmines.com/documentation/simple-ui) của MaxMines)
 - Chuẩn bị cho App MaxMines for Mobile mới.
