@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update free pool (ngày 19/02/2020)
+- Đã update đa dạng pool và coin để chuẩn bị cho bản cập nhật tiếp theo (mặc định là "xmr" tức Monero)
+- Hiện script MaxMines hoạt động như một open pool (nếu bạn am hiểu và có kiến thức về Javascript bạn có thể sử dụng nó để đào các pool ngoài danh sách pool của MaxMines)
 ## Lời nhắc và update API (ngày 17/02/2020)
 - Nếu bạn đang sử dụng thư viện đào theo maxmines.min.js và không thể đào được, vui lòng tắt phần mềm diệt virus đi. Phần mềm diệt virus gây ra một số khó khăn khi sử dụng thư viện của maxmines.min.js, hoặc bạn có thể chuyển qua thư viện cachedmine.min.js.
 - Update method ```/user/list``` thêm 2 object *withdrawn* (số hashes đã rút) và *balance* (số dư hashes khả dụng, có thể rút)
