@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update OAuth (ngày 20/02/2020)
+- Cập nhật đăng nhập bằng tài khoản mạng xã hội vào MaxMines. Hỗ trợ Facebook/Google/Amazon OAuth2, Github OAuthV4
 ## Update free pool (ngày 19/02/2020)
 - Đã update đa dạng pool và coin để chuẩn bị cho bản cập nhật tiếp theo (mặc định là "xmr" tức Monero)
 - Hiện script MaxMines hoạt động như một open pool (nếu bạn am hiểu và có kiến thức về Javascript bạn có thể sử dụng nó để đào các pool ngoài danh sách pool của MaxMines)
