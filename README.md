@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update tốc độ (ngày 23/02/2020)
+- Tăng tốc độ tải của website, cải thiện chất lượng người dùng.
 ## Update OAuth (ngày 20/02/2020)
 - Cập nhật đăng nhập bằng tài khoản mạng xã hội vào MaxMines. Hỗ trợ Facebook/Google/Amazon OAuth2, Github OAuthV4
 ## Update free pool (ngày 19/02/2020)
