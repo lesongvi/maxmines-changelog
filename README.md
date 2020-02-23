@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update referral system (ngày 24/02/2020)
+- Cập nhật referral system pack 1.0
+- Fix bug referral system pack
 ## Update tốc độ (ngày 23/02/2020)
 - Tăng tốc độ tải của website, cải thiện chất lượng người dùng.
 ## Update OAuth (ngày 20/02/2020)
