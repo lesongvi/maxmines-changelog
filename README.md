@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug dashboard (ngày 26/02/2020)
+- Fix bug dashboard mobile
 ## Update referral system (ngày 24/02/2020)
 - Cập nhật referral system pack 1.0
 - Fix bug referral system pack
