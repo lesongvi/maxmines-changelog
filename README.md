@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Đăng nhập Facebook lỗi (ngày 03/03/2020)
+- Tài khoản developer Facebook bị khóa hiện tại không thể đăng nhập bằng Facebook vào Dashboard MaxMines chân thành xin lỗi các bạn. Trong thời gian chờ tài khoản được mở khóa mấy bạn vẫn có thể truy cập Dashboard MaxMines bằng các mxh khác hoặc đăng nhập bình thường.
 ## Fix bug dashboard (ngày 26/02/2020)
 - Fix bug dashboard mobile
 ## Update referral system (ngày 24/02/2020)
