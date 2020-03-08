@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update bảo mật (ngày 09/03/20)
+- Cập nhật bảo mật thông tin user nâng cao. Giảm, ẩn hoàn toàn thông tin nhạy cảm
+- Cập nhật nhỏ cho web app.
+- Sẵn sàng cho phần mềm MaxMines!
 ## Fix bug chữ (ngày 08/03/20)
 - Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.  
 ```
