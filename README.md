@@ -1,6 +1,17 @@
 # maxmines-changelog
 ## Fix bug chữ (ngày 08/03/20)
-- Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.
+- Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.  
+**Notice: **
+```
+Mấy nay mình nhận được báo cáo một số dịch vụ như Maxmines Captcha, auth shortlink,... bị lỗi đứng giữa chừng hoặc công cụ khai thác chậm hơn bình thường. Ví dụ bình thường là 80H/s giờ chỉ còn trên dưới 20H/s thì các bạn vui lòng gửi email chi tiết:
+- Khoảng thời gian bạn bị lỗi/bug
+- Dịch vụ lúc đó (auth shortlink, captcha, miner, custom miner...)
+- Thông số máy tính
+- Tốc độ kết nối internet của bạn (có thể kiểm tra tại SpeedTest by Ookla)
+- Public key site của bạn/công cụ khai thác
+- Địa chỉ IP lúc đó của bạn (có thể kiểm tra tại ipchicken)
+Địa chỉ email báo cáo: vi@rqn9[.]com
+```
 ## Cập nhật sửa lỗi đăng nhập (ngày 04/03/2020)
 - Đã fix tài khoản developer Facebook
 ## Đăng nhập Facebook lỗi (ngày 03/03/2020)
