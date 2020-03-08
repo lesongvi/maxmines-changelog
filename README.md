@@ -1,7 +1,6 @@
 # maxmines-changelog
 ## Fix bug chữ (ngày 08/03/20)
 - Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.  
-**Notice: **
 ```
 Mấy nay mình nhận được báo cáo một số dịch vụ như Maxmines Captcha, auth shortlink,... bị lỗi đứng giữa chừng hoặc công cụ khai thác chậm hơn bình thường. Ví dụ bình thường là 80H/s giờ chỉ còn trên dưới 20H/s thì các bạn vui lòng gửi email chi tiết:
 - Khoảng thời gian bạn bị lỗi/bug
