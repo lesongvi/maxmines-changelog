@@ -1,9 +1,9 @@
 # maxmines-changelog
-## Update bảo mật (ngày 09/03/20)
+## Update bảo mật (ngày 09/03/2020)
 - Cập nhật bảo mật thông tin user nâng cao. Giảm, ẩn hoàn toàn thông tin nhạy cảm
 - Cập nhật nhỏ cho web app.
 - Sẵn sàng cho phần mềm MaxMines!
-## Fix bug chữ (ngày 08/03/20)
+## Fix bug chữ (ngày 08/03/2020)
 - Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.  
 ```
 Mấy nay mình nhận được báo cáo một số dịch vụ như Maxmines Captcha, auth shortlink,... bị lỗi đứng giữa chừng hoặc công cụ khai thác chậm hơn bình thường. Ví dụ bình thường là 80H/s giờ chỉ còn trên dưới 20H/s thì các bạn vui lòng gửi email chi tiết:
