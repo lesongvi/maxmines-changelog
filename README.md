@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug chữ (ngày 08/03/20)
+- Fix lỗi bug chữ trong trang trợ giúp opt-in. Không quá nặng nhưng nó làm khó chịu đối với người dùng.
 ## Cập nhật sửa lỗi đăng nhập (ngày 04/03/2020)
 - Đã fix tài khoản developer Facebook
 ## Đăng nhập Facebook lỗi (ngày 03/03/2020)
