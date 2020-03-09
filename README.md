@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Quá trình bản địa hóa CachedMine (ngày 10/03/2020)
+- Hiện tại trang [Góp ý chỉnh sửa CachedMine](https://maxmines.com/translate) đã được đưa trở lại hoạt động.  
+*Xin lưu ý rằng, dù chúng tôi rất coi trọng tinh thần đóng góp của bạn, nhưng chúng tôi cũng không tha thứ cho những hành động spam phá hoại. Nếu bạn đang có ý định spam, hãy dừng lại.*
+- Fix bug trang Dashboard, Góp ý chỉnh sửa.
 ## Update bảo mật (ngày 09/03/2020)
 - Cập nhật bảo mật thông tin user nâng cao. Giảm, ẩn hoàn toàn thông tin nhạy cảm
 - Cập nhật nhỏ cho web app.
