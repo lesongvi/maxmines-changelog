@@ -13,9 +13,9 @@
 Mấy nay mình nhận được báo cáo một số dịch vụ như Maxmines Captcha, auth shortlink,... bị lỗi đứng giữa chừng hoặc công cụ khai thác chậm hơn bình thường. Ví dụ bình thường là 80H/s giờ chỉ còn trên dưới 20H/s thì các bạn vui lòng gửi email chi tiết:
 - Khoảng thời gian bạn bị lỗi/bug
 - Dịch vụ lúc đó (auth shortlink, captcha, miner, custom miner...)
-- Thông số máy tính
+- Thông số máy tính của bạn
 - Tốc độ kết nối internet của bạn (có thể kiểm tra tại SpeedTest by Ookla)
-- Public key site của bạn/công cụ khai thác
+- Public key site của bạn/công cụ khai thác hoặc địa chỉ, phần mềm, app đào lúc đó.
 - Địa chỉ IP lúc đó của bạn (có thể kiểm tra tại ipchicken)
 Địa chỉ email báo cáo: vi@rqn9[.]com
 ```
