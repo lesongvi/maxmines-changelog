@@ -1,4 +1,20 @@
 # maxmines-changelog
+## Cập nhật bảo mật tài khoản (ngày 10/03/2020) 
+- Cập nhật bảo mật tài khoản
+- Cập nhật [liên hệ](https://maxmines.com/contact) kiểu mới giúp việc duyệt liên hệ nhanh hơn và chính xác hơn. Có 3 lựa chọn:  
+  
+**Báo Bug/Lỗi cần fix (có bug bounty, vui lòng đọc phần [Điều khoản sử dụng](https://maxmines.com/info/terms-of-service))**
+```
+Hãy mô tả cho chúng tôi biết về chi tiết lỗi bug, nếu có thể hãy gửi cho chúng tôi một ảnh chụp màn hình bằng cách nhấn phím print Print Screen sau đó vào notevn.com nhấn tổ hợp phím Ctrl + V sau đó sao chép địa chỉ liên kết hình ảnh rồi dán nó vào ô liên hệ ở dưới
+```  
+**Liên hệ góp ý xây dựng dịch vụ**
+```
+Hãy cho chúng tôi biết bạn muốn chúng tôi cải thiện điều gì
+```  
+**Liên hệ báo cáo trường hợp lạm dụng dịch vụ**
+```
+Vui lòng đọc báo cáo lạm dụng để biết thêm chi tiết.
+```
 ## Quá trình bản địa hóa CachedMine (ngày 10/03/2020)
 - Hiện tại trang [Góp ý chỉnh sửa CachedMine](https://maxmines.com/translate) đã được đưa trở lại hoạt động.  
 *Xin lưu ý rằng, dù chúng tôi rất coi trọng tinh thần đóng góp của bạn, nhưng chúng tôi cũng không tha thứ cho những hành động spam phá hoại. Nếu bạn đang có ý định spam, hãy dừng lại.*
