@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi delay, đứng (ngày 12/03/2020)
+- Fix lỗi captcha, shortlink bị delay, đứng
 ## Cập nhật bảo mật tài khoản (ngày 11/03/2020) 
 - Cập nhật bảo mật tài khoản
 - Cập nhật [liên hệ](https://maxmines.com/contact) kiểu mới giúp việc duyệt liên hệ nhanh hơn và chính xác hơn. Có 3 lựa chọn:  
