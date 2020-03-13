@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Facebook contact (ngày 13/03/2020)
+- Hiện tại mình không thể hỗ trợ các bạn qua Facebook, vậy nên hãy liên hệ mình qua [email](mailto:vi@rqn9.com)
 ## Fix lỗi delay, đứng (ngày 12/03/2020)
 - Fix lỗi captcha, shortlink bị delay, đứng
 ## Cập nhật bảo mật tài khoản (ngày 11/03/2020) 
