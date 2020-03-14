@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Facebook login (ngày 14/03/2020)
+- Đã fix lỗi đăng nhập bằng Facebook.
 ## Facebook contact (ngày 13/03/2020)
 - Hiện tại mình không thể hỗ trợ các bạn qua Facebook, vậy nên hãy liên hệ mình qua [email](mailto:vi@rqn9.com)
 ## Fix lỗi delay, đứng (ngày 12/03/2020)
