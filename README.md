@@ -1,6 +1,7 @@
 # maxmines-changelog
 ## Fix Amazon login
 - Sửa lỗi đăng nhập bằng tài khoản Amazon.
+- Update no non-SSL access
 - Tổng hợp 1 số lỗi khi login vào MaxMines:  
 - ***MaxMines isn't using a secure connection to transfer information***
 ```
