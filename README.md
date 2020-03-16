@@ -1,5 +1,8 @@
 # maxmines-changelog
-## Fix Amazon login
+## Update bảo mật ngày 16/03 (ngày 16/03/2020)
+- Update domain lock bảo mật.
+- Ngưng spam vào mail của RQN9 nếu bạn không muốn bị gắn cờ là spam và không bao giờ được mở lại tài khoản, vui lòng sử dụng phần [liên hệ](https://maxmines.com/contact). Xin cảm ơn! 
+## Fix Amazon login (ngày 15/03/2020)
 - Sửa lỗi đăng nhập bằng tài khoản Amazon.
 - Update no non-SSL access
 - Tổng hợp 1 số lỗi khi login vào MaxMines:  
