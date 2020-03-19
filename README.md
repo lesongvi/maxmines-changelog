@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update nhỏ máy chủ (ngày 19/03/2020)
+- Cập nhật một số stuff trên máy chủ
+- Tăng 1 phần nhỏ năng suất máy chủ
 ## Update bảo mật ngày 16/03 (ngày 16/03/2020)
 - Update domain lock bảo mật.
 - Ngưng spam vào mail của RQN9 nếu bạn không muốn bị gắn cờ là spam và không bao giờ được mở lại tài khoản, vui lòng sử dụng phần [liên hệ](https://maxmines.com/contact). Xin cảm ơn! 
