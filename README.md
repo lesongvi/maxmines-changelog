@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update trải nghiệm người dùng (ngày 20/03/2020)
+- Cập nhật email xác minh mới, tin tưởng tăng.
+- Cập nhật chi tiết các giá trị trong rút gọn link để giúp những người còn mơ màng về hệ thống này hiểu rõ hơn.
 ## Update nhỏ máy chủ (ngày 19/03/2020)
 - Cập nhật một số stuff trên máy chủ
 - Tăng 1 phần nhỏ năng suất máy chủ
