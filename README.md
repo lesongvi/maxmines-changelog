@@ -1,6 +1,6 @@
 # maxmines-changelog
 ## Update app (ngày 21/03/2020)
-- Fix bug hiện false alert lúc đăng nhập.
+- Fix bug hiện false alert lúc đăng nhập app.
 ## Update trải nghiệm người dùng (ngày 20/03/2020)
 - Update mail server
 - Cập nhật email xác minh mới, tin tưởng tăng.
