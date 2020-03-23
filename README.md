@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update python http-api (ngày 23/03/2020)
+- Update python http-api mới trong [tài liệu](https://maxmines.com/documentation/http-api)
 ## Update app (ngày 21/03/2020)
 - Fix bug hiện false alert lúc đăng nhập [app](https://maxmines.com/documentation/app).
 ## Update trải nghiệm người dùng (ngày 20/03/2020)
