@@ -1,4 +1,18 @@
 # maxmines-changelog
+## Update Mining Proxies (ngày 24/03/2020)
+- Update [Mining Proxies](https://maxmines.com/settings/proxies)
+```
+CNAME Proxy là phương án cuối cùng để ngăn chặn AdBlockers và các phương thức khác phát hiện các công cụ đào coin của MaxMines.
+
+Subdomain của bạn được thêm vào đây sẽ định tuyến lưu lượng khai thác thông qua tên miền của bạn chứ không phải của chúng tôi. Các script của đào coin sẽ nằm ở CNAME proxy đầu tiên bạn thêm ở mỗi nhóm/tên miền. Để sử dụng dịch vụ này, bạn PHẢI thêm 5 bản ghi subdomain/CNAME Tại sao lại là 5 bản ghi?
+
+Script của bạn sẽ được mã hóa lại tự động mỗi 24 giờ.
+
+Lưu ý: Vui lòng đảm bảo thêm các bản ghi CNAME của bạn TRƯỚC KHI cập nhật tên miền của bạn cho chúng tôi!
+
+Người dùng CloudFlare:
+Nếu bạn đang sử dụng CloudFlare để quản lý DNS cho tên miền này và bạn có lưu lượng truy cập khá cao (> 250k người dùng/ngày) và bạn không phải là khách hàng Enterprise: chúng tôi khuyên bạn nên sử dụng GREY cloud (CHỈ DNS), thay vì ORANGE cloud (lưu lượng truy cập được định tuyến qua CloudFlare). Cloudflare giới hạn kết nối websocket, nó có thể dẫn đến việc mất lợi nhuận (trừ khi bạn là khách hàng Enterprise).
+```
 ## Update python http-api (ngày 23/03/2020)
 - Update python http-api mới trong [tài liệu](https://maxmines.com/documentation/http-api)
 ## Update app (ngày 21/03/2020)
