@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug automatically generate script (ngày 25/03/2020)
+- Fix bug automatically generate script by [Mining Proxies](https://maxmines.com/settings/proxies)
 ## Update Mining Proxies (ngày 24/03/2020)
 - Update [Mining Proxies](https://maxmines.com/settings/proxies)
 ```
