@@ -1,4 +1,11 @@
 # maxmines-changelog
+## Update Code Generator (ngày 27/03/2020)
+- Update [Code Generator](https://maxmines.com/codegenerator)
+```
+Công cụ tạo code đơn giản giúp bạn thuật tiện hơn trong việc chỉnh sửa và update.
+
+Chỉ cần dán code được tạo trong các thẻ trang web của bạn. Hoặc truy cập trang tài liệu. Lấy mã cơ bản (hoặc nâng cao hơn nếu bạn muốn tùy chỉnh), dán Public Key trang web của bạn và đặt đoạn code đó vào trong trang web hoặc ứng dụng của bạn.
+```
 ## Update Proxies (ngày 26/03/2020)
 - Chứng chỉ SSL miễn phí được tự động tạo.
 - Update some stuff
