@@ -1,6 +1,7 @@
 # maxmines-changelog
 ## Update some stuff on Mining Proxies dashboard
 - Cập nhật thông số ngày cập nhật chính xác hơn.
+- Cập nhật trạng thái proxy.
 ```
 Nếu bạn thấy proxy bạn đã setup thành công có lỗi DNS, lỗi này có thể do bản ghi của bạn đã bị thay đổi. 
 Lúc đầu bạn setup địa chỉ nào thì hãy trỏ lại địa chỉ đó hoặc xóa luôn proxy cũ và setup lại proxy mới. 
