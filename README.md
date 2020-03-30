@@ -1,6 +1,11 @@
 # maxmines-changelog
 ## Update some stuff on Mining Proxies dashboard
 - Cập nhật thông số ngày cập nhật chính xác hơn.
+```
+Nếu bạn thấy proxy bạn đã setup thành công có lỗi DNS, lỗi này có thể do bản ghi của bạn đã bị thay đổi. 
+Lúc đầu bạn setup địa chỉ nào thì hãy trỏ lại địa chỉ đó hoặc xóa luôn proxy cũ và setup lại proxy mới. 
+Cảnh báo này sẽ xuất hiện trong khoảng 24h, sau 24h bạn không sửa lỗi thì proxy sẽ bị xóa vĩnh viễn khỏi máy chủ, hãy kiểm tra lại ngay tránh bị mất lợi nhuận.
+```
 ## Limit Proxy Contact (ngày 28/03/2020)
 - Nếu bạn cần bỏ giới hạn proxy, vui lòng liên hệ qua phần liên hệ của MaxMines và chọn lý do liên hệ là "Giới hạn" sau đó nhập lý do vì sao bạn nên được bỏ giới hạn proxy. Vui lòng không gửi mail trực tiếp tới RQN!.
 ## Update Code Generator (ngày 27/03/2020)
