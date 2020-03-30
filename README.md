@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update some stuff on Mining Proxies dashboard
+- Cập nhật thông số ngày cập nhật chính xác hơn.
 ## Limit Proxy Contact (ngày 28/03/2020)
 - Nếu bạn cần bỏ giới hạn proxy, vui lòng liên hệ qua phần liên hệ của MaxMines và chọn lý do liên hệ là "Giới hạn" sau đó nhập lý do vì sao bạn nên được bỏ giới hạn proxy. Vui lòng không gửi mail trực tiếp tới RQN!.
 ## Update Code Generator (ngày 27/03/2020)
