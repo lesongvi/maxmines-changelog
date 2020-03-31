@@ -1,5 +1,7 @@
 # maxmines-changelog
-## Update some stuff on Mining Proxies dashboard
+## Fix bug Mining Proxies (ngày 31/03/2020)
+- Fix bug trạng thái Mining Proxies
+## Update some stuff on Mining Proxies dashboard (ngày 30/03/2020)
 - Cập nhật thông số ngày cập nhật chính xác hơn.
 - Cập nhật trạng thái proxy.
 ```
