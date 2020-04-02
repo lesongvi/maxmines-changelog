@@ -1,5 +1,8 @@
 # maxmines-changelog
 ## Custom pool blocked (ngày 02/04/2020)
+- Fix bug [Apk MaxMines](https://app.maxmines.com/)
+- Fix bug HTTP API [/stats/site](https://maxmines.com/documentation/http-api#stats-site)
+- Custom pool blocked
 - **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
 ```
 maxmines.min.js (Version: 1605010420, salt: TumBlest37)
