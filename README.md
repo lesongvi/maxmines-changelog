@@ -1,4 +1,10 @@
 # maxmines-changelog
+## Custom pool blocked (ngày 02/04/2020)
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
+```
+maxmines.min.js (Version: 1605010420, salt: TumBlest37)
+cachedmine.min.js (Version: 1608010420, salt: JuanBikpo57)
+```
 ## Fix bug Mining Proxies (ngày 31/03/2020)
 - Fix bug trạng thái Mining Proxies
 - Fix bug liên hệ
