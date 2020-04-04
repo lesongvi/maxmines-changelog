@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Referrals Package updated (ngày 04/04/2020)
+- Cập nhật hệ thống giới thiệu (testing)
 ## Custom pool blocked (ngày 02/04/2020)
 - Fix bug [Apk MaxMines](https://app.maxmines.com/)
 - Fix bug HTTP API [/stats/site](https://maxmines.com/documentation/http-api#stats-site)
