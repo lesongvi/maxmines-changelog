@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Hoàn thiện Referral Systems (ngày 07/04/2020)
+- Fix bug và hoàn thiện Referral Systems
+- Donate cho ban phòng chống dịch Covid 19 qua [ViDonateMe](https://donate.cuvii.xyz)
 ## Referrals Package updated (ngày 04/04/2020)
 - Cập nhật hệ thống giới thiệu (testing)
 ## Custom pool blocked (ngày 02/04/2020)
