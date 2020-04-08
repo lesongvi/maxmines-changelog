@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Documentation (ngày 09/04/2020)
+- Cập nhật Documentation về Phần mềm và App mới.
 ## Fix bug Proxies Server (ngày 08/04/2020)
 - Fix bug Proxies Server không nhận bản ghi mới.
 ## Hoàn thiện Referral Systems (ngày 07/04/2020)
