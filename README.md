@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug Proxies Server (ngày 08/04/2020)
+- Fix bug Proxies Server không nhận bản ghi mới.
 ## Hoàn thiện Referral Systems (ngày 07/04/2020)
 - Fix bug và hoàn thiện Referral Systems
 - Donate cho ban phòng chống dịch Covid 19 qua [ViDonateMe](https://donate.cuvii.xyz)
