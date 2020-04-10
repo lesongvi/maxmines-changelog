@@ -1,8 +1,10 @@
 # maxmines-changelog
+## Chính sách đăng ký thay đổi (ngày 10/04/2020)
+- MaxMines sẽ không còn lấy thông tin về Quốc gia, Postcode (mã bưu chính), địa chỉ (thường trú, thành phố, tên đường, ...), tên công ty của người dùng khi đăng ký tại MaxMines. Những người đăng ký trước 10/04/2020 thì vẫn được lưu trữ những thông tin này. Nếu bạn muốn ẩn/xóa khỏi máy chủ của MaxMines thì hãy [Gửi một yêu cầu liên hệ](https://maxmines.com/contact)
 ## Update Documentation (ngày 09/04/2020)
-- Cập nhật Documentation về Phần mềm và App mới.
+- Cập nhật Documentation về [Phần mềm](https://maxmines.com/documentation/software) và [App](https://maxmines.com/documentation/app) mới.
 ## Fix bug Proxies Server (ngày 08/04/2020)
-- Fix bug Proxies Server không nhận bản ghi mới.
+- Fix bug [Proxies Server](https://maxmines.com/settings/proxies) không nhận bản ghi mới.
 ## Hoàn thiện Referral Systems (ngày 07/04/2020)
 - Fix bug và hoàn thiện Referral Systems
 - Donate cho ban phòng chống dịch Covid 19 qua [ViDonateMe](https://donate.cuvii.xyz)
