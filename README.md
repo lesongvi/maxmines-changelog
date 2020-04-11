@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update 2FA bảo mật (ngày 11/04/2020)
+- Cập nhật xác minh 2 bước, tùy chọn này không khả dụng nếu bạn sử dụng Quick Login Package (đăng nhập nhanh bằng mạng xã hội). Nếu bạn sử dụng đăng nhập thông thường của MaxMines, hãy bật xác minh 2 bước (2FA) bằng cách truy cập **Cài đặt** > **Tài khoản** sau đó chuyển tab qua 2FA. Kích hoạt **Xác minh 2 bước (2FA)**, sau đó xác minh lại một lần nữa bằng mật khẩu.
 ## Chính sách đăng ký thay đổi (ngày 10/04/2020)
 - MaxMines sẽ không còn lấy thông tin về Quốc gia, Postcode (mã bưu chính), địa chỉ (thường trú, thành phố, tên đường, ...), tên công ty của người dùng khi đăng ký tại MaxMines. Những người đăng ký trước 10/04/2020 thì vẫn được lưu trữ những thông tin này. Nếu bạn muốn ẩn/xóa khỏi máy chủ của MaxMines thì hãy [Gửi một yêu cầu liên hệ](https://maxmines.com/contact)
 ## Update Documentation (ngày 09/04/2020)
