@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Công cụ tính toán thu nhập (ngày 13/04/2020)
+- Bạn đã có thể sử dụng lại công cụ tính toán thu nhập tại trang chủ MaxMines.
 ## Update 2FA bảo mật (ngày 11/04/2020)
 - Cập nhật xác minh 2 bước, tùy chọn này không khả dụng nếu bạn sử dụng Quick Login Package (đăng nhập nhanh bằng mạng xã hội). Nếu bạn sử dụng đăng nhập thông thường của MaxMines, hãy bật xác minh 2 bước (2FA) bằng cách truy cập **Cài đặt** > **Tài khoản** sau đó chuyển tab qua 2FA. Kích hoạt **Xác minh 2 bước (2FA)**, sau đó xác minh lại một lần nữa bằng mật khẩu.
 ## Chính sách đăng ký thay đổi (ngày 10/04/2020)
