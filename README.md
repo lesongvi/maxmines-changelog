@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update MaxMines for Mobile (ngày 15/04/2020)
+- Update giao diện và fix bug [Apk MaxMines](https://app.maxmines.com/)
 ## Update 2FA Reset Code (ngày 14/04/2020)
 - Nếu sau này bạn bị mất điện thoại, hãy sử dụng mã này thay cho 2FA code, tài khoản của bạn sẽ tự động được gỡ chức năng bảo mật 2FA. 
 **Lưu ý, chúng tôi chỉ cho bạn xem mã này 1 lần duy nhất!.**
