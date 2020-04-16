@@ -4,10 +4,11 @@
 - Update toàn quyền điều khiển máy đào (trước đây máy đào được tự động đào và tự tắt nếu người dùng thoát ứng dụng)
 - Update số liệu thống kê Hashes đã được chấp nhận từ máy chủ
 - Năng suất đào tăng cao ~ 15 ~ 20 H/s
-- Update Cài đặt máy đào mới
-- Update số liệu thống kê chính xác
+- Update cài đặt máy đào mới
+- Update số liệu thống kê chính xác, gọn gàng hơn
 - Update trải nghiệm người dùng với các nút, animation
 - Update đồ thị số liệu lịch sử hashes tự động
+- Update mục tiêu tự động tăng khi bạn đã đạt được mục tiêu cũ (ví dụ bạn có 100K hashes thì mục tiêu sẽ được tự động tăng lên 1M)
 ## Update MaxMines for Mobile (ngày 15/04/2020)
 - Update giao diện và fix bug [Apk MaxMines](https://app.maxmines.com/)
 ## Update 2FA Reset Code (ngày 14/04/2020)
