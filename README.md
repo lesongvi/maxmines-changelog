@@ -1,4 +1,7 @@
 # maxmines-changelog
+## New Engine for MaxMines apk (ngày 17/04/2020)
+- Cập nhật engine mới cho MaxMines
+- Cập nhật quảng cáo AdMob ở dưới app (không ảnh hướng tới người dùng)
 ## Update MaxMines for Mobile (ngày 16/04/2020)
 **Tính năng mới**
 - Update toàn quyền điều khiển máy đào (trước đây máy đào được tự động đào và tự tắt nếu người dùng thoát ứng dụng)
