@@ -1,4 +1,12 @@
 # maxmines-changelog
+## Mobile Quick Login (ngày 18/04/2020)
+- Update Mobile Quick Login
+**Usage**
+```
+Bước 1: Truy cập Cài đặt » Site, chuyển qua tab MQL (Mobile Quick Login).
+Bước 2: Chọn Site cần bạn muốn đăng nhập sau đó nhấn vào tạo mã QR
+Bước 3: Mở ứng dụng MaxMines for Mobile, chọn Quick Login và quét mã để đăng nhập nhanh
+```
 ## New Engine for MaxMines apk (ngày 17/04/2020)
 - Cập nhật engine mới cho MaxMines
 - Cập nhật quảng cáo AdMob ở dưới app (không ảnh hướng tới người dùng)
