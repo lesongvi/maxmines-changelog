@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update User Experience (ngày 19/04/2020)
+**Trước hết, hôm nay là một ngày đặt biệt :)**
+- Update Hướng dẫn sử dụng app (chỉ xuất hiện lần đầu sau khi cài app)
+- Update thông báo máy đào đang hoạt động và tự tắt khi dừng đào
 ## Mobile Quick Login (ngày 18/04/2020)
 - Update Mobile Quick Login
 **Usage**
