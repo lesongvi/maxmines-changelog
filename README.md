@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update Leaderboard for App MaxMines for Mobile (ngày 20/04/2020)
+- Cập nhật bảng xếp hạng user của site key của bạn.
+- Cập nhật thông báo đào kèm theo hành động dừng máy ngầm
+**Nếu bạn không thấy thông báo**: Vui lòng mở kênh thông báo "MaxMines Miner Status" để có thể thấy thông báo tình trạng máy đào, máy đào vẫn sẽ chạy ngầm nếu bạn không bật thông báo, nhưng mình khuyên là bạn nên bật nó để có trải nghiệm người dùng tốt nhất.
 ## Update Apk User Experience (ngày 19/04/2020)
 **Trước hết, hôm nay là một ngày đặc biệt :)**
 - Update Hướng dẫn sử dụng app (chỉ xuất hiện lần đầu sau khi cài app)
