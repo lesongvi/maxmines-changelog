@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Update App MaxMines for Mobile (ngày 21/04/2020)
+- Cập nhật thông báo từ máy chủ MaxMines
+- Cập nhật Lịch sử giao dịch chứa tất cả giao dịch của bạn (miner, referral)
+- Cập nhật Giới thiệu chứa thông tin số tiền hoa hồng, danh sách người dùng bạn đã giới thiệu và số ngày tạo tài khoản của họ
+- Thay đổi vị trí các thanh điều hướng
 ## Update Leaderboard for App MaxMines for Mobile (ngày 20/04/2020)
 - Cập nhật bảng xếp hạng user của site key của bạn.
 - Cập nhật thông báo đào kèm theo hành động dừng máy ngầm  
