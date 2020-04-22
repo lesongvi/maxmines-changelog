@@ -1,10 +1,10 @@
 # maxmines-changelog
-## Update RQN9PCMiner software (ngày 22/04/2020)
+## Update RQN9PCMiner software version 0.2 beta (ngày 22/04/2020)
 - Cập nhật đào NVIDIA, AMD.
 - Kiểm soát số CPU được dùng.
 - Hỗ trợ số lượng lớn thuật toán và pool đào mới.
 - Cập nhật thêm 1 miner mới.
-- Cập nhật chọn coin để đào
+- Cập nhật chọn coin để đào (Monero, Bitcoinote, Bytecoin, Infinium-8, Ninja, XAO, Argon, TRTL, Xeonbit, Worktips, 2acoin)
 ## Update App MaxMines for Mobile (ngày 21/04/2020)
 - Cập nhật thông báo từ máy chủ MaxMines
 - Cập nhật Lịch sử giao dịch chứa tất cả giao dịch của bạn (miner, referral)
