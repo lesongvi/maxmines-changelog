@@ -4,6 +4,7 @@
 - Kiểm soát số CPU được dùng.
 - Hỗ trợ số lượng lớn thuật toán và pool đào mới.
 - Cập nhật thêm 1 miner mới.
+- Cập nhật chọn coin để đào
 ## Update App MaxMines for Mobile (ngày 21/04/2020)
 - Cập nhật thông báo từ máy chủ MaxMines
 - Cập nhật Lịch sử giao dịch chứa tất cả giao dịch của bạn (miner, referral)
