@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update MaxMines for Mobile easy MMO (ngày 23/04/2020)
+- Cập nhật kiếm tiền bằng cách xem quảng cáo
+- Nhận miễn phí XMR mỗi 10 phút nhấp nút
+- Xem trên thông báo để biết số tiền thưởng đang chờ và số tiền đã được duyệt của bạn
 ## Update RQN9PCMiner software version 0.2 beta (ngày 22/04/2020)
 - Cập nhật đào NVIDIA, AMD.
 - Kiểm soát số CPU được dùng.
