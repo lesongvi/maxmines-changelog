@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Cập nhật API và tài khoản demo (ngày 24/04/2020)
+- Cập nhật thuật toán tính số XMR lưu trữ
+- Fix bug API internal
+- Cập nhật tài khoản demo cho app MaxMines for Mobile
+- Fix bug đăng nhập app MaxMines
 ## Update MaxMines for Mobile easy MMO (ngày 23/04/2020)
 - Cập nhật kiếm tiền bằng cách xem quảng cáo
 - Nhận miễn phí XMR mỗi 10 phút nhấp nút
