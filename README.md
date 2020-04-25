@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug dashboard (ngày 25/04/2020)
+- Fix bug thống kê dashboard
 ## Cập nhật API và tài khoản demo (ngày 24/04/2020)
 - Cập nhật thuật toán tính số XMR lưu trữ
 - Fix bug API internal
