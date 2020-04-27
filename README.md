@@ -1,5 +1,5 @@
 # maxmines-changelog
-## Fix 0.2 beta software
+## Fix 0.2 beta software (ngày 27/04/2020)
 - Update 48 pool đào
 - Fix bug update dialog
 - Fix bug token dialog RQN9
