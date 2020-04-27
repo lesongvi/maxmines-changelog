@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Fix 0.2 beta software
+- Update 48 pool đào
+- Fix bug update dialog
+- Fix bug token dialog RQN9
 ## Fix bug dashboard (ngày 25/04/2020)
 - Fix bug thống kê dashboard
 ## Cập nhật API và tài khoản demo (ngày 24/04/2020)
