@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Update apk MaxMines (ngày 01/05/2020)
+- Cập nhật giao diện Quicklogin
+- Cập nhật đăng ký trong apk
+- Fix lỗi đăng nhập tài khoản demo  
+**Lưu ý: Một số chức năng của MaxMines apk ví dụ như Quicklogin sẽ không hoạt động tốt với các phiên bản Android đời cũ, nếu có thể hãy nâng cấp phiên bản Android của bạn**
 ## Fix 0.2 beta software (ngày 27/04/2020)
 - Update 48 pool đào
 - Fix bug update dialog
