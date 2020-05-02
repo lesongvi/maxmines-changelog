@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update cache apk MaxMines (ngày 02/05/2020)
+- Cập nhật cache data khi offline
 ## Update apk MaxMines (ngày 01/05/2020)
 - Cập nhật giao diện Quicklogin
 - Cập nhật đăng ký trong apk
