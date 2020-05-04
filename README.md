@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Fix bug server (ngày 04/05/2020)
+- Fix bug lỗi server không nhận kết nối tới. (15 phút)
+- Update nhỏ giao diện web app
 ## Update cache apk MaxMines (ngày 02/05/2020)
 - Cập nhật cache data khi offline
 ## Update apk MaxMines (ngày 01/05/2020)
