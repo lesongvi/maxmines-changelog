@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update app widget (ngày 05/05/2020)
+- Cập nhật widget máy đào cho app (testing)
 ## Fix bug server (ngày 04/05/2020)
 - Fix bug lỗi server không nhận kết nối tới. (15 phút)
 - Update nhỏ giao diện web app
