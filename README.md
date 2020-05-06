@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Darkmode MaxMines web app (ngày 06/05/2020)
+- Cập nhật giao diện Darkmode cho web app
+- Update nhỏ phía server
 ## Update app widget (ngày 05/05/2020)
 - Cập nhật widget máy đào cho app (testing)
 ## Fix bug server (ngày 04/05/2020)
