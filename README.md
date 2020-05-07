@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update documentation (ngày 07/05/2020)
+- Cập nhật tài liệu [Javascript](https://maxmines.com/documentation/miner) phần **Constructor Options**
 ## Darkmode MaxMines web app (ngày 06/05/2020)
 - Cập nhật giao diện Darkmode cho web app
 - Update nhỏ phía server
