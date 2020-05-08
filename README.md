@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug register section (ngày 08/05/2020)
+- Cập nhật sửa lỗi đăng ký
 ## Update documentation (ngày 07/05/2020)
 - Cập nhật tài liệu [Javascript](https://maxmines.com/documentation/miner) phần **Constructor Options**
 ## Darkmode MaxMines web app (ngày 06/05/2020)
