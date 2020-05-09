@@ -1,4 +1,12 @@
 # maxmines-changelog
+## Fix bug script (Ngày 09/05/2020)
+- Fix bug miner (delay)
+- Fix bug captcha (self)
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
+```
+maxmines.min.js (Version: 0953090520, salt: BasTille)
+cachedmine.min.js (Version: 1003090520, salt: Tatsiuo)
+```
 ## Fix bug register section (ngày 08/05/2020)
 - Cập nhật sửa lỗi đăng ký
 ## Update documentation (ngày 07/05/2020)
