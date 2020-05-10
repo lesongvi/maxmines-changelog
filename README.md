@@ -1,5 +1,7 @@
 # maxmines-changelog
-## Fix bug script (Ngày 09/05/2020)
+## Chạy thử giao diện mới (ngày 10/05/2020)
+- Test thử giao diện mới.
+## Fix bug script (ngày 09/05/2020)
 - Fix bug miner (delay)
 - Fix bug captcha (self)
 - **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật:**
