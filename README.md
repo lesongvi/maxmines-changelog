@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update nút donate ẩn (ngày 11/05/2020)
+- Cập nhật nút donate hashes site cho người dùng (testing/hidden)
 ## Chạy thử giao diện mới (ngày 10/05/2020)
 - Test thử giao diện mới.
 ## Fix bug script (ngày 09/05/2020)
