@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug update dialog software (ngày 14/05/2020)
+- Fix bug dialog software
 ## Update nút donate ẩn (ngày 11/05/2020)
 - Cập nhật nút donate hashes site cho người dùng (testing/hidden)
 ## Chạy thử giao diện mới (ngày 10/05/2020)
