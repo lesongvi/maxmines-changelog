@@ -1,4 +1,6 @@
 # maxmines-changelog
+## New software view (ngày 15/05/2020)
+- Giao diện mới cho phần mềm (testing)
 ## Fix bug update dialog software (ngày 14/05/2020)
 - Fix bug dialog software
 ## Update nút donate ẩn (ngày 11/05/2020)
