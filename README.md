@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update documentation (ngày 17/05/2020)
+- Typo fix
 ## New software view (ngày 15/05/2020)
 - Giao diện mới cho phần mềm (testing)
 ## Fix bug update dialog software (ngày 14/05/2020)
