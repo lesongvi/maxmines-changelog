@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Darkmode updated (ngày 19/05/2020)
+- Cập nhật darkmode
+**Làm thế nào để sử dụng darkmode?**: Truy cập [Cài đặt > Tài khoản](https://maxmines.com/settings/account)
 ## Update documentation (ngày 17/05/2020)
 - Typo fix
 ## New software view (ngày 15/05/2020)
