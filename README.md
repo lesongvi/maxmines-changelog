@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Darkmode position updated (ngày 20/05/2020)
+- Cập nhật lại vị trí darkmode trên nav.
+- Xóa darkmode setting trong cài đặt.
 ## Darkmode updated (ngày 19/05/2020)
 - Cập nhật darkmode  
 **Làm thế nào để sử dụng darkmode?**: Truy cập [Cài đặt > Tài khoản](https://maxmines.com/settings/account)
