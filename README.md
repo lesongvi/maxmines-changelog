@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update some stuff (ngày 23/05/2020)
+- Cập nhật nhỏ giao diện người dùng
 ## Darkmode position updated (ngày 20/05/2020)
 - Cập nhật lại vị trí darkmode trên nav.
 - Xóa darkmode setting trong cài đặt.
