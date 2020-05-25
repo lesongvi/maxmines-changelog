@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update blog view (ngày 25/05/2020)
+- Cập nhật giao diện blog
 ## Update some stuff (ngày 23/05/2020)
 - Cập nhật nhỏ giao diện người dùng
 ## Darkmode position updated (ngày 20/05/2020)
