@@ -1,4 +1,6 @@
 # maxmines-changelog
+## English language pack updating (ngày 27/05/2020)
+- Gói ngôn ngữ tiếng Anh đang được cập nhật tại MaxMines, ngày dự kiến hoàn thành 17/05/2020.
 ## Update blog view (ngày 25/05/2020)
 - Cập nhật giao diện blog
 ## Update some stuff (ngày 23/05/2020)
