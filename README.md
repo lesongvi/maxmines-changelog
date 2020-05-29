@@ -1,4 +1,6 @@
 # maxmines-changelog
+## English language pack progress (ngày 29/05/2020)
+- Tài liệu MaxMines đã được cập nhật ngôn ngữ tiếng Anh từ pack.
 ## Fix bug reward app (ngày 28/05/2020)
 - Fix bug xem video kiếm XMR của app [MaxMines for Mobile](http://app.maxmines.com)
 ## English language pack updating (ngày 27/05/2020)
