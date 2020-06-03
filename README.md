@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug documentation (ngày 03/06/2020)
+- Nhờ có đợt update language pack mà phát hiện ra một số bug từ documentation.
 ## English language pack progress (ngày 29/05/2020)
 - Tài liệu MaxMines đã được cập nhật ngôn ngữ tiếng Anh từ pack.
 ## Fix bug reward app (ngày 28/05/2020)
