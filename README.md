@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update dashboard (ngày 04/06/2020)
+- Update dashboard language pack
 ## Fix bug documentation (ngày 03/06/2020)
 - Nhờ có đợt update language pack mà phát hiện ra một số bug từ documentation.
 ## English language pack progress (ngày 29/05/2020)
