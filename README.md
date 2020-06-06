@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update documentation (ngày 06/06/2020)
+- Cập nhật chi tiết tài liệu Javascript API
 ## Update dashboard (ngày 04/06/2020)
 - Update dashboard language pack
 ## Fix bug documentation (ngày 03/06/2020)
