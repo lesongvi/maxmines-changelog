@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug login (ngày 07/06/2020)
+- Fix bug khi nhập sai tài khoản + 2FA code
 ## Update documentation (ngày 06/06/2020)
 - Cập nhật chi tiết tài liệu Javascript API
 ## Update dashboard (ngày 04/06/2020)
