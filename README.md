@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Updated Language Pack (ngày 08/06/2020)
+- Cập nhật thành công gói ngôn ngữ Tiếng Anh cho MaxMines. Nếu bạn phát hiện lỗi hãy liên hệ chúng tôi. Trước khi liên hệ, hãy đọc kỹ FAQ/chính sách Bug Bounty của MaxMines!
 ## Fix bug login (ngày 07/06/2020)
 - Fix bug khi nhập sai tài khoản + 2FA code
 ## Update documentation (ngày 06/06/2020)
