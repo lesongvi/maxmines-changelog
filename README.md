@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Blog (ngày 10/06/2020)
+- Cập nhật nội dung blog tiếng Anh (English blog)
 ## Update chức năng cho Extension (ngày 09/06/2020)
 - Cập nhật chức năng cho MaxMines extension (Fb features)
 ## Updated Language Pack (ngày 08/06/2020)
