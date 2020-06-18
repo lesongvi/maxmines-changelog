@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug English pack (ngày 18/06/2020)
+- Fix bug English pack phần lỗi 404
 ## Giới thiệu Vĩ's Blog (ngày 16/06/2020)
 - Hãy truy cập [Vĩ's Blog](https://blog.error.vn) và đặt bookmark trang blog này, sẽ có rất nhiều thông tin bổ ích về lập trình và thế giới tiền ảo sẽ được đăng trên đây!!
 ## Update Blog (ngày 10/06/2020)
