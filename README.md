@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update terms of service (ngày 21/06/2020)
+- Cập nhật điều khoản sử dụng
 ## Fix bug English pack (ngày 18/06/2020)
 - Fix bug English pack phần lỗi 404
 ## Giới thiệu Vĩ's Blog (ngày 16/06/2020)
