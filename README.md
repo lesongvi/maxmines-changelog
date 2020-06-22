@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Translation suggest (ngày 22/06/2020)
+- Cập nhật đề nghị chỉnh sửa
 ## Update terms of service (ngày 21/06/2020)
 - Cập nhật điều khoản sử dụng
 ## Fix bug English pack (ngày 18/06/2020)
