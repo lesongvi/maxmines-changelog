@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug Code Generator (ngày 23/06/2020)
+- Fix code generator bị bug do English pack
 ## Update Translation suggest (ngày 22/06/2020)
 - Cập nhật đề nghị chỉnh sửa
 ## Update terms of service (ngày 21/06/2020)
