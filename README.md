@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Fix login bug (ngày 25/06/2020)
+- Fix lỗi trắng màn hình khi đăng nhập qua mạng xã hội
+- Cập nhật code generator
 ## Fix bug Code Generator (ngày 23/06/2020)
 - Fix code generator bị bug do English pack
 ## Update Translation suggest (ngày 22/06/2020)
