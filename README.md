@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update TOS (ngày 26/06/2020)
+- Cập nhật TOS (Điều khoản sử dụng)
 ## Fix login bug (ngày 25/06/2020)
 - Fix lỗi trắng màn hình khi đăng nhập qua mạng xã hội
 - Cập nhật code generator
