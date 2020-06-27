@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update content (ngày 27/06/2020)
+- Cập nhật Trợ giúp Captcha, trợ giúp Cachedmine
+- Cập nhật Chính sách
+- Cập nhật thông tin pháp lý (legal information)
 ## Update TOS (ngày 26/06/2020)
 - Cập nhật TOS (Điều khoản sử dụng)
 ## Fix login bug (ngày 25/06/2020)
