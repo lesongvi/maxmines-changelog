@@ -1,7 +1,8 @@
 # maxmines-changelog
 ## Update FAQ (ngày 28/06/2020)
-- Cập nhật FAQ theo English pack. 
-- **Kết thúc cập nhật English pack, trễ deadline 1 tháng 1 ngày**
+- Cập nhật FAQ theo English pack.
+- Cập nhật thông báo kêu gọi cài đặt MaxMines for Mobile
+- **Kết thúc cập nhật English pack, trễ deadline 10 ngày**
 ## Update content (ngày 27/06/2020)
 - Cập nhật Trợ giúp Captcha, trợ giúp Cachedmine
 - Cập nhật Chính sách
@@ -40,7 +41,7 @@
 ## Fix bug reward app (ngày 28/05/2020)
 - Fix bug xem video kiếm XMR của app [MaxMines for Mobile](http://app.maxmines.com)
 ## English language pack updating (ngày 27/05/2020)
-- Gói ngôn ngữ tiếng Anh đang được cập nhật tại MaxMines, ngày dự kiến hoàn thành 17/05/2020.
+- Gói ngôn ngữ tiếng Anh đang được cập nhật tại MaxMines, ngày dự kiến hoàn thành 17/06/2020.
 ## Update blog view (ngày 25/05/2020)
 - Cập nhật giao diện blog
 ## Update some stuff (ngày 23/05/2020)
