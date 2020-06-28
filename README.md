@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update FAQ (ngày 28/06/2020)
+- Cập nhật FAQ theo English pack. 
+- **Kết thúc cập nhật English pack, trễ deadline 1 tháng 1 ngày**
 ## Update content (ngày 27/06/2020)
 - Cập nhật Trợ giúp Captcha, trợ giúp Cachedmine
 - Cập nhật Chính sách
