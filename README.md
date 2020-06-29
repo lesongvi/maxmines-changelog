@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi MaxMines for Mobile app (29/06/2020)
+- Fix lỗi thiếu tham số cho liên kết giới thiệu
 ## Update FAQ (ngày 28/06/2020)
 - Cập nhật FAQ theo English pack.
 - Cập nhật thông báo kêu gọi cài đặt MaxMines for Mobile
