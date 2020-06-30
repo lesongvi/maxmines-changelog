@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Update vị trí thanh ngôn ngữ (ngày 30/06/2020)
+- Thay đổi vị trí ngôn ngữ lên trên navbar
+- Fix bug không lưu ngôn ngữ
+- Cập nhật code ví dụ trong Javascript API
 ## Fix lỗi MaxMines for Mobile app (29/06/2020)
 - Fix lỗi thiếu tham số cho liên kết giới thiệu
 ## Update FAQ (ngày 28/06/2020)
