@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Proxy Mining description (ngày 01/07/2020)
+- Cập nhật mô tả cho Proxy Mining
 ## Update vị trí thanh ngôn ngữ (ngày 30/06/2020)
 - Thay đổi vị trí ngôn ngữ lên trên navbar
 - Fix bug không lưu ngôn ngữ
