@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật Javascript Documentation (ngày 03/07/2020)
+- Cập nhật JS Miner Documentation
 ## Update Proxy Mining description (ngày 01/07/2020)
 - Cập nhật mô tả cho Proxy Mining
 ## Update vị trí thanh ngôn ngữ (ngày 30/06/2020)
