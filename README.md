@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update MaxMines For Mobile (ngày 05/07/2020)
+- Cập nhật ứng dụng MaxMines For Mobile
 ## Cập nhật Javascript Documentation (ngày 03/07/2020)
 - Cập nhật JS Miner Documentation
 ## Update Proxy Mining description (ngày 01/07/2020)
