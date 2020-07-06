@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Optimize MaxMines For Mobile (ngày 06/07/2020)
+- Tối ưu hóa ứng dụng MaxMines For Mobile, chuẩn bị publish trực tiếp trên App Store (Android)
 ## Update MaxMines For Mobile (ngày 05/07/2020)
 - Cập nhật ứng dụng MaxMines For Mobile
 ## Cập nhật Javascript Documentation (ngày 03/07/2020)
