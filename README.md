@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Optimize MaxMines min script (ngày 08/07/2020)
+- Tối ưu hoá script MaxMines library
 ## Optimize MaxMines For Mobile (ngày 06/07/2020)
 - Tối ưu hóa ứng dụng MaxMines For Mobile, chuẩn bị publish trực tiếp trên App Store (Android)
 ## Update MaxMines For Mobile (ngày 05/07/2020)
