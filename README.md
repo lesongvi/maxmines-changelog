@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug cachedmine (ngày 13/07/2020)
+- Fix bug cachedmine không reset ở ví dụ trang chủ CachedMine
 ## Optimize MaxMines min script (ngày 08/07/2020)
 - Tối ưu hoá script MaxMines library
 ## Optimize MaxMines For Mobile (ngày 06/07/2020)
