@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Điều chỉnh xuất chi lần cuối (ngày 15/07/2020)
+- Điều chỉnh mức xuất chi trở lại mốc 70%. Lần thay đổi này là vĩnh viễn.
 ## Fix bug cachedmine (ngày 13/07/2020)
 - Fix bug cachedmine không reset ở ví dụ trang chủ CachedMine
 ## Optimize MaxMines min script (ngày 08/07/2020)
