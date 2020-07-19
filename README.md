@@ -3,6 +3,8 @@
 - Cập nhật script MaxMines và Cachedmine theo thuật toán máy chủ mới
 - Fix lỗi đăng nhập qua github
 - Fix box giới thiệu app MaxMines
+- Fix bug tài liệu Cachedmine
+- Cập nhật legal information theo yêu cầu RQN9
 - **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
 maxmines.min.js (Version: 1530180720, salt: eTDWbS88LY9tExGt)
