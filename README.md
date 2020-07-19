@@ -1,4 +1,13 @@
 # maxmines-changelog
+## Cập nhật bản vá tháng 7 (ngày 19/07/2020)
+- Cập nhật script MaxMines và Cachedmine theo thuật toán máy chủ mới
+- Fix lỗi đăng nhập qua github
+- Fix box giới thiệu app MaxMines
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
+```
+maxmines.min.js (Version: 1530180720, salt: eTDWbS88LY9tExGt)
+cachedmine.min.js (Version: 1530180720, salt: vMnKZtKuC3hPrrwg)
+```
 ## Điều chỉnh xuất chi lần cuối (ngày 15/07/2020)
 - Điều chỉnh mức xuất chi trở lại mốc 70%. Lần thay đổi này là vĩnh viễn.
 ## Fix bug cachedmine (ngày 13/07/2020)
