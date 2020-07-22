@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update contact (ngày 22/07/2020)
+- Cập nhật liên hệ khi mất quyền truy cập vào tài khoản 2FA.
 ## Cập nhật bản vá tháng 7 (ngày 19/07/2020)
 - Cập nhật script MaxMines và Cachedmine theo thuật toán máy chủ mới
 - Fix lỗi đăng nhập qua github
