@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Fix bug cookie (ngày 23/07/2020)
+- Update trang đăng nhập
+- Fix bug lỗi blank screen vì bug cookie
 ## Update contact (ngày 22/07/2020)
 - Cập nhật liên hệ khi mất quyền truy cập vào tài khoản 2FA.
 ## Cập nhật bản vá tháng 7 (ngày 19/07/2020)
