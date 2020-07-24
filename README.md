@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update bảo mật (ngày 24/07/2020)
+- Từ nay các hoạt động liên quan tới tài khoản của bạn sẽ được công khai cho chính bạn tại Hoạt động (trước đây chúng tôi chỉ công khai nếu bạn yêu cầu được kiểm tra lại những hoạt động bất thường)
+- Ngôn ngữ mặc định được đổi thành Tiếng Việt
 ## Fix bug cookie (ngày 23/07/2020)
 - Update trang đăng nhập
 - Fix bug lỗi blank screen vì bug cookie
