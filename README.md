@@ -1,6 +1,16 @@
 # maxmines-changelog
+## Update hệ thống xuất chi mới (ngày 25/07/2020)
+- Hệ thống sẽ **tự động giữ số XMR chờ rút của bạn để kiểm tra trong 1 khoảng thời gian ngắn (1 buổi làm việc)** thay vì chuyển ngay lập tức như trước để xem số hashes là hợp lệ/không có vấn đề trong các thao tác xử lý của máy chủ, trong khoản thời gian này số XMR đang chờ rút của bạn và mọi giao dịch rút tiền trên tài khoản của bạn hoàn toàn bị đóng băng.
+- Nếu hệ thống **phát hiện có gian lận/vi phạm lạm dụng** khi sử dụng công cụ, bạn sẽ bị trừ hết XMR và bị gắn cờ là tài khoản gian lận.
+- Nếu bạn **không thiết lập địa chỉ ví Monero**, bạn sẽ không được hệ thống đưa vào hàng đợi chuyển tiền.
+- Nếu bạn **chưa xác minh email sau ngày 19/05/2020**, bạn sẽ không được hệ thống đưa vào hàng đợi chuyển tiền.
+- Nếu bạn có **một giao dịch đang trong trạng thái chờ duyệt**, hệ thống sẽ không đưa bạn vào hàng đợi chuyển tiền.
+- Nếu bạn đủ số dư tối thiểu đã đặt trước, MaxMines tự động đưa bạn vào hàng chờ chuyển tiền mỗi 30 phút.
+- Số tiền được thêm vào hàng chờ của bạn sẽ được **đóng băng** dù cho tỉ giá xuất chi cho mỗi 1M hashes có biến động như thế nào đi chăng nữa. (Ví dụ nếu bạn được được đưa vào hàng đợi với 0.6 XMR lúc tỉ giá xuất chi là 0.2056 XMR cho mỗi 1M hashes, thì dù tỉ giá xuất chi tăng lên 0.2057 hay giảm xuống 0.2056 thì số XMR chờ được chuyển của bạn vẫn sẽ là 0.6 XMR).
+- Nếu bạn cảm thấy hệ thống mới có vấn đề về khâu làm việc hoặc có lỗi, hãy [liên hệ chúng tôi](https://maxmines.com/contact).
+- Nếu bạn bị từ chối duyệt, bạn cần biết rằng đã có lỗi ở máy chủ MaxMines, số XMR của bạn sẽ được chuyển về lại tài khoản, hãy chờ đợt duyệt tiếp theo.
 ## Update bảo mật (ngày 24/07/2020)
-- Từ nay các hoạt động liên quan tới tài khoản của bạn sẽ được công khai cho chính bạn tại Hoạt động (trước đây chúng tôi chỉ công khai nếu bạn yêu cầu được kiểm tra lại những hoạt động bất thường)
+- Từ nay các hoạt động liên quan tới tài khoản của bạn sẽ được công khai cho chính bạn tại [Hoạt động](https://maxmines.com/settings/activities) (trước đây chúng tôi chỉ công khai nếu bạn yêu cầu được kiểm tra lại những hoạt động bất thường)
 - Ngôn ngữ mặc định được đổi thành Tiếng Việt
 ## Fix bug cookie (ngày 23/07/2020)
 - Update trang đăng nhập
