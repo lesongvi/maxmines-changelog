@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug Settings (ngày 26/07/2020)
+- Fix bug UI trong Cài đặt tài khoản
 ## Update hệ thống xuất chi mới (ngày 25/07/2020)
 - Hệ thống sẽ **tự động giữ số XMR chờ rút của bạn để kiểm tra trong 1 khoảng thời gian ngắn (1 buổi làm việc)** thay vì chuyển ngay lập tức như trước để xem số hashes là hợp lệ/không có vấn đề trong các thao tác xử lý của máy chủ, trong khoản thời gian này số XMR đang chờ rút của bạn và mọi giao dịch rút tiền trên tài khoản của bạn hoàn toàn bị đóng băng.
 - Nếu hệ thống **phát hiện có gian lận/vi phạm lạm dụng** khi sử dụng công cụ, bạn sẽ bị trừ hết XMR và bị gắn cờ là tài khoản gian lận.
