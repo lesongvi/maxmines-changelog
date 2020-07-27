@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Phần mềm MaxMines sắp được ra mắt (ngày 27/07/2020)
+- Phần mềm MaxMines đã được chuyển sang giai đoạn testing và sẽ ra mắt trong thời gian sớm nhất.
 ## Fix bug Settings (ngày 26/07/2020)
 - Fix bug UI trong Cài đặt tài khoản
 ## Update hệ thống xuất chi mới (ngày 25/07/2020)
