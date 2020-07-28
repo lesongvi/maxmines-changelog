@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Fix bug UI ở 1 số phần nhỏ (ngày 28/07/2020)
+- Fix bug UI của Mining Proxy Setup.
+- Fix bug UI Cài đặt Site.
 ## Phần mềm MaxMines sắp được ra mắt (ngày 27/07/2020)
 - Phần mềm MaxMines đã được chuyển sang giai đoạn testing và sẽ ra mắt trong thời gian sớm nhất.
 ## Fix bug Settings (ngày 26/07/2020)
