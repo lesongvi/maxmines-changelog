@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug navbar (ngày 29/07/2020)
+- Sửa lỗi navbar bị active ở dashboard admin.
 ## Fix bug UI ở 1 số phần nhỏ (ngày 28/07/2020)
 - Fix bug UI của Mining Proxy Setup.
 - Fix bug UI Cài đặt Site.
