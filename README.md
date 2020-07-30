@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Cải thiện số liệu (ngày 30/07/2020)
+- Update số XMR nhỏ rõ ràng hơn trong dashboard
+- Số liệu sẽ không trả về 0 nữa
 ## Fix bug navbar (ngày 29/07/2020)
 - Sửa lỗi navbar bị active ở dashboard admin.
 ## Fix bug UI ở 1 số phần nhỏ (ngày 28/07/2020)
