@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update Covid19 chart (ngày 31/07/2020)
+- Cập nhật chart covid 19 để so sánh tỉ lệ tương đồng với chart difficult.
 ## Cải thiện số liệu (ngày 30/07/2020)
 - Update số XMR nhỏ rõ ràng hơn trong dashboard
 - Số liệu sẽ không trả về 0 nữa
