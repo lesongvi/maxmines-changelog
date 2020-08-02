@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Hoàn thiện covid19 chart (ngày 02/07/2020)
+- Cách tính toán sai khiến cho thông tin chart bị lỗi
 ## Fix bug covid19 chart (ngày 01/07/2020)
 - Fix bug covid19 sai timeline
 ## Update Covid19 chart (ngày 31/07/2020)
