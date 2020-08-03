@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Chart covid19 đã được cập nhật (ngày 03/08/2020)
+- Xem chi tiết [Tại đây](https://blog.error.vn/covid19)
+```
+Vì dịch covid 19 lại bùng phát nên hiện tại thị trường tiền ảo hầu như đang bị đóng băng phần nào. Nhưng mình tin rồi cơn bão đen tối nhất cũng sẽ qua, ánh sáng sẽ cứu rỗi linh hồn của những kẻ khốn khổ.
+```
 ## Hoàn thiện covid19 chart (ngày 02/08/2020)
 - Cách tính toán sai khiến cho thông tin chart bị lỗi
 ## Fix bug covid19 chart (ngày 01/08/2020)
