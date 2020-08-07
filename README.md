@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Nâng cấp firewall máy chủ MaxMines (ngày 07/08/2020)
+- Gói nâng cấp firewall máy chủ MaxMines mới
 ## Update Special Miner (ngày 05/08/2020)
 - Cập nhật thông báo cho Special Miner khi bị chặn, bị lỗi máy chủ.
 ## Chart covid19 đã được cập nhật (ngày 03/08/2020)
