@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug HTTP API (ngày 17/08/2020)
+- Fix bug HTTP API tại documentation
 ## Nâng cấp firewall máy chủ MaxMines (ngày 07/08/2020)
 - Gói nâng cấp firewall máy chủ MaxMines mới
 ## Update Special Miner (ngày 05/08/2020)
