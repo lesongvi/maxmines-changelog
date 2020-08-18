@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug admin panel (ngày 18/08/2020)
+- Fix bug chart admin panel bị sập sàn.
 ## Fix bug HTTP API (ngày 17/08/2020)
 - Fix bug HTTP API tại documentation
 ## Nâng cấp firewall máy chủ MaxMines (ngày 07/08/2020)
