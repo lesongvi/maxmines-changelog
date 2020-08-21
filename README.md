@@ -1,4 +1,11 @@
 # maxmines-changelog
+## Update thuật toán máy chủ (ngày 22/08/2020)
+- Cập nhật bản vá tháng 08 cho máy chủ MaxMines.
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
+```
+maxmines.min.js (Version: 0141220820, salt: SpAWbf7QhqUE32uG)
+cachedmine.min.js (Version: 0141220820, salt: r6zFKsp3eGSbnnFW)
+```
 ## Fix bug admin panel (ngày 18/08/2020)
 - Fix bug chart admin panel bị sập sàn.
 ## Fix bug HTTP API (ngày 17/08/2020)
