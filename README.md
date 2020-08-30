@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Hoàn thành thay thế NotLink (ngày 30/08/2020)
+- Những proxy sử dụng NotLink đã bị gỡ bỏ hoàn toàn khỏi hệ thống.
 ## MaxDDNS thay thế NotLink (ngày 27/08/2020)
 - MaxMines cập nhật thay thế NotLink Proxy qua MaxDDNS Proxy. Trong vòng 2 ngày nữa tất cả các proxy NotLink sẽ bị xóa khỏi MaxMines.
 - Mining Proxy cập nhật mới thư viện tự động.
