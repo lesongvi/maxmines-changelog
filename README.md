@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update HTTP API /user/top (ngày 31/08/2020)
+- Cập nhật HTTP API /user/top, thêm 2 giá trị trả về
 ## Hoàn thành thay thế NotLink (ngày 30/08/2020)
 - Những proxy sử dụng NotLink đã bị gỡ bỏ hoàn toàn khỏi hệ thống.
 ## MaxDDNS thay thế NotLink (ngày 27/08/2020)
