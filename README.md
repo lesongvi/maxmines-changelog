@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug login (ngày 01/09/2020)
+- Fix bug login xác minh tài khoản.
 ## Update HTTP API /user/top (ngày 31/08/2020)
 - Cập nhật HTTP API /user/top, thêm 2 giá trị trả về
 ## Hoàn thành thay thế NotLink (ngày 30/08/2020)
