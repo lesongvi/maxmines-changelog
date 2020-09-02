@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Update app MaxMines for Mobile - version 1.1.2 (ngày 02/09/2020)
+- Cập nhật vòng quay may mắn
+- Cập nhật thiết bị hoạt động mới
+- Bắt buộc cập nhật mới cho các phiên bản cũ hơn 1.1.2.
+- Cập nhật xem video cho phần nhận XMR
 ## Fix bug login (ngày 01/09/2020)
 - Fix bug login xác minh tài khoản.
 ## Update HTTP API /user/top (ngày 31/08/2020)
