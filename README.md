@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug app MaxMines for Mobile (ngày 03/09/2020)
+- Fix bug lịch sử vòng quay may mắn
 ## Update app MaxMines for Mobile - version 1.1.2 (ngày 02/09/2020)
 - Cập nhật vòng quay may mắn
 - Cập nhật thiết bị hoạt động mới
