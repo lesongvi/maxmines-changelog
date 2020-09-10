@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update trang tải app mới (ngày 10/09/2020)
+- Cập nhật trang tải app MaxMines mới (2 app).
 ## MaxMines Proxies apk (ngày 07/09/2020)
 - Hoàn thành beta MaxMines Proxies apk
 ## Fix bug app MaxMines for Mobile (ngày 03/09/2020)
