@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update chế độ đào MaxMines trên RQN9PCMiner (ngày 13/09/2020)
+- Cập nhật MaxMines trên RQN9PCMiner 0.3 Beta
 ## Update trang tải app mới (ngày 10/09/2020)
 - Cập nhật trang tải app MaxMines mới (2 app).
 ## MaxMines Proxies apk (ngày 07/09/2020)
