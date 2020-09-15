@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update tài liệu phần mềm (ngày 15/09/2020)
+- Cập nhật tài liệu phần mềm và video hướng dẫn
 ## Update chế độ đào MaxMines trên RQN9PCMiner (ngày 13/09/2020)
 - Cập nhật MaxMines trên RQN9PCMiner 0.3 Beta
 ## Update trang tải app mới (ngày 10/09/2020)
