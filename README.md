@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update API /stats/users (ngày 19/09/2020)
+- Cập nhật API /stats/users để kiểm tra lịch sử hashes của người dùng của nhà cung cấp. Để được minh bạch nhất có thể, lịch sử hashes của người dùng nên được tách riêng ra khỏi lịch sử chung của nhà cung cấp.
+- Dashboard hiển thị cả tất cả lịch sử cùng lúc?
 ## Update tài liệu phần mềm (ngày 15/09/2020)
 - Cập nhật tài liệu phần mềm và video hướng dẫn
 ## Update chế độ đào MaxMines trên RQN9PCMiner (ngày 13/09/2020)
