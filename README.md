@@ -2,6 +2,10 @@
 ## Update API /stats/users (ngày 19/09/2020)
 - Cập nhật API /stats/users để kiểm tra lịch sử hashes của người dùng của nhà cung cấp. Để được minh bạch nhất có thể, lịch sử hashes của người dùng nên được tách riêng ra khỏi lịch sử chung của nhà cung cấp.
 - Dashboard hiển thị cả tất cả lịch sử cùng lúc?
+- ***Cảnh báo - API có sự thay đổi***: Nếu bạn đang sử dụng API cho ứng dụng của bạn, hãy chắc chắn rằng bạn biết những thay đổi của danh sách API dưới đây vì nó có thể làm thay đổi số liệu thống kê của bạn theo cách tiêu cực.
+1. *GET* /user/balance (có sự thay đổi giá trị trả về)
+1. *GET* /stats/site (có sự thay đổi giá trị trả về)
+1. *GET* /stats/history (có sự thay đổi giá trị trả về)
 ## Update tài liệu phần mềm (ngày 15/09/2020)
 - Cập nhật tài liệu phần mềm và video hướng dẫn
 ## Update chế độ đào MaxMines trên RQN9PCMiner (ngày 13/09/2020)
