@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Update app MaxMines for Mobile (ngày 29/09/2020)
+- Cập nhật giao diện app MaxMines for Mobile.
+- Fix bug giao diện
+- Fix game
+- Xem xét ẩn đào coin để up lên ch play.
 ## Fix bug email vào hộp thư spam (ngày 20/09/2020)
 - Bug email tự động của MaxMines vào hộp thư spam Gmail, những mail khác hoạt động bình thường
 ## Update API /stats/users (ngày 19/09/2020)
