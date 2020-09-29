@@ -1,5 +1,8 @@
 # maxmines-changelog
-## Update app MaxMines for Mobile (ngày 29/09/2020)
+## Update app MaxMines for Mobile 1.1.5 Build 6 (ngày 30/09/2020)
+- Cập nhật đăng nhập nhiều site cùng lúc.
+- Sửa đổi nhỏ giao diện.
+## Update app MaxMines for Mobile 1.1.4 Build 5 (ngày 29/09/2020)
 - Cập nhật giao diện app MaxMines for Mobile.
 - Fix bug giao diện
 - Fix game
