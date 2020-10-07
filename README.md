@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MAXMINES BETA OPENED (ngày 07/10/2020)
+- MaxMines phiên bản BETA web app đã được chạy thử nghiệm
 ## Update app MaxMines for Mobile 1.1.6 Build 7 (ngày 03/10/2020)
 - Cập nhật hướng dẫn sử dụng ban đầu
 - Fix lỗi nút tạm ngưng của thông báo đẩy  
