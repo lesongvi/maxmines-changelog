@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thư mời tham gia bản BETA của MaxMines web app V2 đã được gửi (ngày 09/10/2020)
+- Thư mời tham gia thử nghiệm phiên bản BETA - Testnet của Webapp MaxMines đã được gửi cho các lập trình viên thân thiết của [MaxMines](https://beta.maxmines.com/)
 ## MAXMINES BETA OPENED (ngày 07/10/2020)
 - MaxMines phiên bản BETA web app đã được chạy thử nghiệm
 ## Update app MaxMines for Mobile 1.1.6 Build 7 (ngày 03/10/2020)
