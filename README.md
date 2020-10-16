@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Update security for Social account (ngày 16/10/2020)
+- Cập nhật bảo mật cho tài khoản đăng nhập bằng mạng xã hội.
+- Cập nhật xoá tài khoản
 ## Thư mời tham gia bản BETA của MaxMines web app V2 đã được gửi (ngày 09/10/2020)
 - Thư mời tham gia thử nghiệm phiên bản BETA - Testnet của Webapp MaxMines đã được gửi cho các lập trình viên thân thiết của [MaxMines](https://beta.maxmines.com/)
 ## MAXMINES BETA OPENED (ngày 07/10/2020)
