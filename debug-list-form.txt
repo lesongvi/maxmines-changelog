@@ -1,6 +1,6 @@
 Tiêu đề: 
 ---- // Requirement
-Các bản debug list sau ngày 17/10/2020 phải được gửi theo 1 form unique như thế này: https://github.com/lesongvi/maxmines-changelog
+Các bản debug list sau ngày 17/10/2020 phải được gửi theo 1 form unique như thế này: https://github.com/lesongvi/maxmines-changelog/blob/master/debug-list-form.txt
 ---- // Thông tin comment
 Vĩ comment: *Việc có một bản debug list là điều rất cần thiết để biết có gì cần thay đổi và thay đổi như thế nào. Các lỗi được tổng hợp dễ dàng cho việc kiểm tra và sửa lỗi một cách nhanh chóng. Làm việc có chuyên nghiệp.
 ---- // Thông tin debug list
