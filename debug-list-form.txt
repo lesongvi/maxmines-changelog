@@ -1,0 +1,24 @@
+Tiêu đề: 
+---- // Requirement
+Các bản debug list sau ngày 17/10/2020 phải được gửi theo 1 form unique như thế này: https://github.com/lesongvi/maxmines-changelog
+---- // Thông tin comment
+Vĩ comment: *Việc có một bản debug list là điều rất cần thiết để biết có gì cần thay đổi và thay đổi như thế nào. Các lỗi được tổng hợp dễ dàng cho việc kiểm tra và sửa lỗi một cách nhanh chóng. Làm việc có chuyên nghiệp.
+---- // Thông tin debug list
+Ngày gửi: (ngày gửi debug list)
+Target: (tên platform chính)
+Cập nhật riêng tư: (y/n)
+Cập nhật changelog Github: (y/n)
+Cập nhật này cần tạm đóng hệ thống nào?: (n/tên hệ thống)
+Platform ảnh hưởng (Webapp, Android, iOS, Mining Server, Exchange, ...)*: (tên platform cần cập nhật)
+---- // Ghi chú
+
+---- // Chi tiết debug
+Tester (1): 
+Lập trình viên đã tiếp nhận lỗi (2): 
+Danh sách debug
+
+
+
+---- // Chi tiết sửa lỗi
+Lập trình viên sửa lỗi xong update các lỗi đã sửa xuống dưới đây cùng comment (nếu có)
+
