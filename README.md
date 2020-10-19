@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bot app MaxMines for Android (ngày 19/10/2020)
+- Sửa lỗi bot duyệt các khoản thanh toán sau khi xem quảng cáo không hoạt động
 ## Update security for Social account (ngày 16/10/2020)
 - Cập nhật bảo mật cho tài khoản đăng nhập bằng mạng xã hội.
 - Cập nhật xoá tài khoản
