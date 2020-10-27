@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Release MaxMinesMiner 1.0.0 BETA (ngày 27/10/2020)
+- Release phiên bản BETA MaxMinesMiner 1.0.0 BETA
 ## MaxMines bản cũ gặp sự cố (ngày 23/10/2020)
 - Như các bạn đã biết MaxMines hiện đang trong quá trình nâng cấp lên phiên bản BETA V2 Engine, đã có các sự cố nhẹ (không ảnh hưởng tới nguồn thu nhập của các bạn) xảy ra ở phiên bản cũ. Quá trình này sẽ kéo dài trong ít nhất 2 tuần nữa. Xin chân thành xin lỗi các bạn.
 ## Fix bot app MaxMines for Android (ngày 19/10/2020)
