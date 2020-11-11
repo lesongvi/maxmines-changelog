@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug bot duyệt phần thưởng app Android (ngày 11/11/2020)
+- Fix bug bot duyệt phần thưởng app Android bị lỗi
 ## Release MaxMinesMiner 1.0.0 BETA (ngày 27/10/2020)
 - Release phiên bản BETA MaxMinesMiner 1.0.0 BETA
 ## MaxMines bản cũ gặp sự cố (ngày 23/10/2020)
