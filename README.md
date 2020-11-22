@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MaxMines for Mobile on iOS platform (ngày 22/11/2020)
+- Băt đầu dự án MaxMines for Mobile trên iOS platform
 ## Fix bug captcha Web app (ngày 19/11/2020)
 - Fix bug captcha Web app không load
 ## Fix bug app không đào nhưng có thông báo (ngày 12/11/2020)
