@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Vô hiệu hoá phiên bản BETA (ngày 27/11/2020)
+- Vô hiệu hoá phiên bản BETA web app cùng với danh sách các keygen, người dùng được mời tham gia hoạt động thử nghiệm.
 ## Fix bug login Web platform (ngày 26/11/2020)
 - Fix bug lỗi blank screen khi đăng nhập
 ## MaxMines for Mobile on iOS platform (ngày 22/11/2020)
