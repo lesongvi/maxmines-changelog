@@ -1,4 +1,10 @@
 # maxmines-changelog
+## Cập nhật bản vá tháng 12 cho máy chủ MaxMines.
+- **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
+```
+maxmines.min.js (Version: 1713091220, salt: SdqBFRbeAqnf3MQN)
+cachedmine.min.js (Version: 1716091220, salt: fszUVZNT9etXXTN3)
+```
 ## Vô hiệu hoá phiên bản BETA (ngày 27/11/2020)
 - Vô hiệu hoá phiên bản BETA web app cùng với danh sách các keygen, người dùng được mời tham gia hoạt động thử nghiệm.
 ## Fix bug login Web platform (ngày 26/11/2020)
