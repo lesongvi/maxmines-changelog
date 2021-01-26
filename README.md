@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi đăng nhập Web app (ngày 26/01/2021)
+- Fix lỗi đăng nhập qua Facebook trên Web app
 ## Cập nhật bản vá tháng 12 cho máy chủ MaxMines. (ngày 09/12/2020)
 - **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
