@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật tính lợi nhuận (ngày 12/02/2021)
+- Cập nhật thêm top CPU cho chức năng tính lợi nhuận
 ## Fix lỗi đăng nhập Web app (ngày 26/01/2021)
 - Fix lỗi đăng nhập qua Facebook trên Web app
 ## Cập nhật bản vá tháng 12 cho máy chủ MaxMines. (ngày 09/12/2020)
