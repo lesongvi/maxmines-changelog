@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug Mining Proxies (ngày 10/03/2021)
+- Fix bug Mining Proxies không nhận giá trị proxy mới.
 ## Cập nhật tính lợi nhuận (ngày 12/02/2021)
 - Cập nhật thêm top CPU cho chức năng tính lợi nhuận
 ## Fix lỗi đăng nhập Web app (ngày 26/01/2021)
