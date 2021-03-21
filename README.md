@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật lịch sử thị trường (21/03/2021)
+- Lịch sử thị trường đã được cập nhật 7 biến động gần nhất thay vì 3 như trước.
 ## Fix bug Mining Proxies (ngày 10/03/2021)
 - Fix bug [Mining Proxies](https://maxmines.com/my/settings/proxies) không nhận giá trị proxy mới.
 ## Cập nhật tính lợi nhuận (ngày 12/02/2021)
