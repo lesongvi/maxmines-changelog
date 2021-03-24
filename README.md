@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Cập nhật Engine mới cho một số phần mềm, ứng dụng của MaxMines (ngày 24/03/2021)
+- Cập nhật MaxMinesQM v28, build 1.0.6
+- Cập nhật MaxMines for Android 1.1.11
+- Cập nhật một số tính năng nhỏ của MaxMinesMiner
 ## Cập nhật lịch sử thị trường (ngày 21/03/2021)
 - Lịch sử thị trường đã được cập nhật 7 biến động gần nhất thay vì 3 như trước.
 ## Fix bug Mining Proxies (ngày 10/03/2021)
