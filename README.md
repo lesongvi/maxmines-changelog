@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật Miner Control và Game Mode cho MaxMinesQM (ngày 25/03/2021)
+- MaxMinesQM build 32, 1.0.8.0-release
 ## Cập nhật Engine mới cho một số phần mềm, ứng dụng của MaxMines (ngày 24/03/2021)
 - Cập nhật MaxMinesQM v28, build 1.0.6
 - Cập nhật MaxMines for Android 1.1.11
