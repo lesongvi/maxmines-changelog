@@ -1,5 +1,5 @@
 # maxmines-changelog
-## Fix bug lỗi Mining (ngày 27/03/2021)
+## Fix bug toàn bộ hệ thống Mining (ngày 27/03/2021)
 - Đã sửa lỗi critical bug của hệ thống Mining. Bảo trì và tiếp tục theo dõi.
 - Phát hiện nhiều sai sót trong quá trình bảo dưỡng hệ thống Mining Management (tiếp tục bảo trì).  
 **Lưu ý: Trong quá trình bảo trì Mining Management System, người dùng không thể sử dụng 1 số tính năng liên quan như _Tìm kiếm miner_, _xuất báo cáo_, _loạt các hoạt động cuối_.. Các tính năng liên quan tới dữ liệu Miner vẫn có thể sử dụng tuy nhiên _phần mềm_ hoặc _ứng dụng liên quan_ có thể bị tạm thời bị lỗi thông số 1 vài thời điểm trong ngày. Nếu bạn đang đào và thấy thông số vẫn không thay đổi thì hãy cứ yên tâm, hệ thống sẽ được tự động cập nhật sau đó.**
