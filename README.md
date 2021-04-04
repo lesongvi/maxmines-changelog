@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Khôi phục thành công hệ thống Mining (04/04/2021)
+- Máy chủ đã khôi phục hệ thống Mining thành công, hết trả lỗi *connection error* ([Status page](https://status.maxmines.com/))
 ## Fix bug toàn bộ hệ thống Mining (ngày 27/03/2021)
 - Đã sửa lỗi critical bug của hệ thống Mining. Bảo trì và tiếp tục theo dõi.
 - Phát hiện nhiều sai sót trong quá trình bảo dưỡng hệ thống Mining Management (tiếp tục bảo trì).  
