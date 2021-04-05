@@ -4,7 +4,14 @@
 - Chỉ khi máy chấm tự động thành công bài làm của người dùng sẽ được gắn cờ **solved** (tạm thời) chờ đến lúc được kiểm tra và phê duyệt bởi 1 nhân viên MaxMines.
 - Điều kiện để xác định thành công của bài làm là giá trị boolean của viAssertAdvanced trả về **true**.
 - Có 2 loại case test sẽ được sử dụng trong quá trình máy chấm.
-- Ngôn ngữ sử dụng được tùy biến theo công việc của MaxMines: Java, Javascript, Typescript, Python, C/C++, C#, PHP, Swift
+- Ngôn ngữ sử dụng được tùy biến theo công việc của MaxMines: Java, Javascript, Typescript, Python, C/C++, C#, PHP, Swift  
+
+| Số phía sau tên nhân viên ra bài |           Mô tả          |
+| -------------------------------- | ------------------------ |  
+|                256               |    Nhân viên quan trọng  |  
+|                512               |    Nhân viên xuất sắc    |  
+|                1024              |      Nhân viên giỏi      |  
+|                2048              |  Nhân viên ít quan trọng |
 ## Khôi phục thành công hệ thống Mining (ngày 04/04/2021)
 - Máy chủ đã khôi phục hệ thống Mining thành công, hết trả lỗi *connection error* ([Status page](https://status.maxmines.com/))
 - Trong quá trình phát triển hệ thống kiểm tra trình độ đầu vào cho vị trí lập trình viên của MaxMines. Người dùng cần được mời để có thể tham gia bài kiểm tra trình độ.
