@@ -5,7 +5,7 @@
 - Điều kiện để xác định thành công của bài làm là giá trị boolean của viAssertAdvanced trả về **true**.
 - Có 2 loại case test sẽ được sử dụng trong quá trình máy chấm.
 - Ngôn ngữ sử dụng được tùy biến theo công việc của MaxMines: Java, Javascript, Typescript, Python, C/C++, C#, PHP, Swift
-## Khôi phục thành công hệ thống Mining (04/04/2021)
+## Khôi phục thành công hệ thống Mining (ngày 04/04/2021)
 - Máy chủ đã khôi phục hệ thống Mining thành công, hết trả lỗi *connection error* ([Status page](https://status.maxmines.com/))
 - Trong quá trình phát triển hệ thống kiểm tra trình độ đầu vào cho vị trí lập trình viên của MaxMines. Người dùng cần được mời để có thể tham gia bài kiểm tra trình độ.
 ## Fix bug toàn bộ hệ thống Mining (ngày 27/03/2021)
