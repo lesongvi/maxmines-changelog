@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Cập nhật DevTest (ngày 10/04/2021)
+- Cập nhật viTestLogger v0.3stable-release
+- Hoàn thiện viAdvancedAssert
+- Ping mỗi 5 giây để duy trì kết nối
 ## Hệ thống tự động chấm điểm code test trình độ lập trình viên (ngày 05/04/2021)
 - Người được mời sẽ có một mã dùng 1 lần để truy cập hệ thống trên MaxMines webapp và làm 1 số bài tập kiểm tra trình độ lập trình.
 - Chỉ khi máy chấm tự động thành công bài làm của người dùng sẽ được gắn cờ **solved** (tạm thời) chờ đến lúc được kiểm tra và phê duyệt bởi 1 nhân viên MaxMines.
