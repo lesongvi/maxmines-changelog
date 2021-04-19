@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Cập nhật báo cáo (ngày 19/04/2021)
+- Cập nhật xuất file báo cáo theo PDF, word
+- Báo cáo lịch sử hashes theo ngày
+- Báo cáo lịch sử hashes theo site key
+- Cập nhật hotfix MaxMines social sign
 ## Cập nhật DevTest (ngày 10/04/2021)
 - Cập nhật viTestLogger v0.3stable-release
 - Hoàn thiện viAdvancedAssert
