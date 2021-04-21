@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Reset thị trường (ngày 21/04/2021)
+- Reset toàn bộ 232 loại tiền trên thị trường  
+<img src="https://cdn.notevn.com/9EfDUieLz.png"></img>
+- Cập nhật logger hoạt động
 ## Cập nhật báo cáo (ngày 19/04/2021)
 - Cập nhật xuất file báo cáo theo PDF, word
 - Báo cáo lịch sử hashes theo ngày
