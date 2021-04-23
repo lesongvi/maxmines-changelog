@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Sự cố máy chủ và cập nhật nhỏ (ngày 23/04/2021)
+- Thời gian gần đây số lượng kết nối tới máy chủ tăng đột biến khiến máy chủ bị sự cố quá tải ở một số thời điểm trong ngày. Hiện tại đội ngũ kỹ thuật viên đang gấp rút khắc phục sự cố.
+- Miner Manager có thể bị ảnh hưởng, chậm hơn ở một số thời điểm trong ngày.
+- Cập nhật kiểu thông báo mới
+- Fix bug trang thông báo
 ## Reset thị trường (ngày 21/04/2021)
 - Reset toàn bộ 232 loại tiền trên thị trường  
 <img src="https://cdn.notevn.com/9EfDUieLz.png"></img>
