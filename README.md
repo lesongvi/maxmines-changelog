@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Đợt cập nhật tháng 5 sắp tới (ngày 27/04/2021)
+- Cần sự [đóng góp ý kiến của người dùng](https://forms.gle/wMyp9xbjpu8mfpYy6) để cải thiện Mining Tab và ứng dụng MaxMines for Mobile.
 ## Sự cố máy chủ và cập nhật nhỏ (ngày 23/04/2021)
 - Thời gian gần đây số lượng kết nối tới máy chủ tăng đột biến khiến máy chủ bị sự cố quá tải ở một số thời điểm trong ngày. Hiện tại đội ngũ kỹ thuật viên đang gấp rút khắc phục sự cố.
 - Miner Manager có thể bị ảnh hưởng, chậm hơn ở một số thời điểm trong ngày.
