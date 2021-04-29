@@ -1,5 +1,8 @@
 # maxmines-changelog
+## Chính thức xóa hệ thống liên hệ V1 (ngày 30/04/2021)
+- Sau 1 năm, dữ liệu hỗ trợ của hệ thống liên hệ cũ đã bị xóa hoàn toàn để chuyển qua [hệ thống hỗ trợ mới](https://maxmines.com/support/cases), tương tác với hỗ trợ viên nhiều hơn và dễ dàng theo dõi tiến độ hỗ trợ hơn.
 ## Đợt cập nhật tháng 5 sắp tới (ngày 27/04/2021)
+**Trước hết, hôm nay là một ngày rất đặc biệt :)**
 - Cần sự [đóng góp ý kiến của người dùng](https://forms.gle/wMyp9xbjpu8mfpYy6) để cải thiện Mining Tab và ứng dụng MaxMines for Mobile.
 ## Sự cố máy chủ và cập nhật nhỏ (ngày 23/04/2021)
 - Thời gian gần đây số lượng kết nối tới máy chủ tăng đột biến khiến máy chủ bị sự cố quá tải ở một số thời điểm trong ngày. Hiện tại đội ngũ kỹ thuật viên đang gấp rút khắc phục sự cố.
@@ -11,6 +14,7 @@
 <img src="https://cdn.notevn.com/9EfDUieLz.png"></img>
 - Cập nhật logger hoạt động
 ## Cập nhật báo cáo (ngày 19/04/2021)
+**Trước hết, hôm nay là một ngày đặc biệt :)**
 - Cập nhật xuất file báo cáo theo PDF, word
 - Báo cáo lịch sử hashes theo ngày
 - Báo cáo lịch sử hashes theo site key
