@@ -1,6 +1,6 @@
 # maxmines-changelog
 ## Thông báo cho người dùng Basic MaxMines (ngày 01/05/2021)
-- Vì MaxMines có điều khoản không theo dõi người dùng, chúng tôi đã phát thông báo ở webapp V1 khuyến khích chuyển qua hệ thống mới nhiều chức năng và bảo mật hơn.
+- Vì MaxMines có điều khoản không theo dõi người dùng, chúng tôi đã phát thông báo ở webapp V1 khuyến khích chuyển qua hệ thống V2 mới nhiều chức năng và bảo mật hơn.
 ```
 Lưu ý, hệ thống Basic MaxMines không còn được phát triển nữa và sẽ xảy ra lỗi trong quá trình sử dụng. Khuyến khích bạn chuyển sang hệ thống Webapp mới của MaxMines
 ```
