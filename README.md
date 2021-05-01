@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Thông báo cho người dùng Basic MaxMines (ngày 01/05/2021)
+- Vì MaxMines có điều khoản không theo dõi người dùng, chúng tôi đã phát thông báo ở webapp V1 khuyến khích chuyển qua hệ thống mới nhiều chức năng và bảo mật hơn.
+```
+Lưu ý, hệ thống Basic MaxMines không còn được phát triển nữa và sẽ xảy ra lỗi trong quá trình sử dụng. Khuyến khích bạn chuyển sang hệ thống Webapp mới của MaxMines
+```
 ## Chính thức xóa hệ thống liên hệ V1 (ngày 30/04/2021)
 - Sau 1 năm, dữ liệu hỗ trợ của hệ thống liên hệ cũ đã bị xóa hoàn toàn để chuyển qua [hệ thống hỗ trợ mới](https://maxmines.com/support/cases), tương tác với hỗ trợ viên nhiều hơn và dễ dàng theo dõi tiến độ hỗ trợ hơn.
 ## Đợt cập nhật tháng 5 sắp tới (ngày 27/04/2021)
