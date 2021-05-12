@@ -1,4 +1,10 @@
 # maxmines-changelog
+## Vô hiệu hóa chức năng đăng ký của Basic MaxMines (ngày 12/05/2021)
+- Vô hiệu hóa chức năng đăng ký của Basic MaxMines
+- Bạn vẫn có thể đăng nhập vào Basic Maxmines bằng tài khoản MaxMines của bạn qua MaxMines Auth0. Lưu ý Basic MaxMines hoạt động không ổn định vì hệ thống đã cũ, hãy sử dụng MaxMines phiên bản 2.
+```
+Basic MaxMines là phiên bản web app chỉ hỗ trợ tối thiểu việc theo dõi hoạt động máy đào chứ không có chức năng quản lý máy đào như phiên bản mới. Basic MaxMines được giữ lại vì có nhiều người dùng ý kiến rằng họ chưa quen việc sử dụng phiên bản mới, họ cần thời gian để làm quen. Trong thời gian đó họ vẫn sử dụng Basic MaxMines như một lựa chọn.
+```
 ## Thông báo cho người dùng Basic MaxMines (ngày 01/05/2021)
 - Vì MaxMines có điều khoản không theo dõi người dùng, chúng tôi đã phát thông báo ở webapp V1 khuyến khích chuyển qua hệ thống V2 mới nhiều chức năng và bảo mật hơn.
 ```
