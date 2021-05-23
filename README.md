@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix bug báo cáo (ngày 23/05/2021)
+- Đã fix lỗi UI báo cáo không hiện dialog ngày.
 ## Vô hiệu hóa chức năng đăng ký của Basic MaxMines (ngày 12/05/2021)
 - Vô hiệu hóa chức năng đăng ký của Basic MaxMines
 - Bạn vẫn có thể đăng nhập vào Basic Maxmines bằng tài khoản MaxMines của bạn qua MaxMines Auth0. Lưu ý Basic MaxMines hoạt động không ổn định vì hệ thống đã cũ, hãy sử dụng MaxMines phiên bản 2.
