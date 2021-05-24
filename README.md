@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Cập nhật ứng dụng MaxMines for Mobile phiên bản 1.1.12 (ngày 25/05/2021)
+- Cập nhật biểu đồ hashrate mới cho ứng dụng
+- Thuật toán mới giúp dữ liệu được load nhanh hơn
+- Cập nhật engine máy đào
 ## Fix bug báo cáo (ngày 23/05/2021)
 - Đã fix lỗi UI báo cáo không hiện dialog ngày.
 ## Vô hiệu hóa chức năng đăng ký của Basic MaxMines (ngày 12/05/2021)
