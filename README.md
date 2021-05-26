@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Cập nhật bản vá bảo mật MFM 1.1.13 (ngày 26/05/2021)
+- Cập nhật bản vá bảo mật phát hiện tối ngày 25/05/2021
+- Cập nhật kiểu thông báo mới
+- Cập nhật giá trị thời gian rõ ràng hơn
 ## Cập nhật ứng dụng MaxMines for Mobile phiên bản 1.1.12 (ngày 25/05/2021)
 - Cập nhật biểu đồ hashrate mới cho ứng dụng
 - Thuật toán mới giúp dữ liệu được load nhanh hơn
