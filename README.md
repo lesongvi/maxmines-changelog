@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thay đổi nhỏ ở hệ thống Authentication Link (ngày 12/06/2021)
+- Vì bản cập nhật 23/04/2021, máy chủ MaxMines không trực tiếp trả về "close" nữa. Authentication Link sẽ tự đóng nếu target hashes đủ chỉ tiêu.
 ## Cập nhật bản vá bảo mật MFM 1.1.13 (ngày 26/05/2021)
 - Cập nhật bản vá bảo mật phát hiện tối ngày 25/05/2021
 - Cập nhật kiểu thông báo mới
