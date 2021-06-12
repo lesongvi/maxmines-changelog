@@ -2,6 +2,8 @@
 ## Thay đổi nhỏ ở hệ thống Authentication Link (ngày 12/06/2021)
 - Vì bản cập nhật 23/04/2021, máy chủ MaxMines không trực tiếp trả về "close" nữa. Authentication Link sẽ tự đóng nếu target hashes đủ chỉ tiêu.
 - Máy chủ giữ quá nhiều kết nối dẫn đến quá tải và các thao tác chậm hơn bình thường!. Chúng tôi sẽ khắc phục tình trạng này sớm!
+### Cập nhật lúc 17:44
+- Máy chủ thường xuyên bị gián đoạn dữ liệu vì bảo trì. Máy đào sẽ tự động được kết nối lại với máy chủ. Chúng tôi sẽ khắc phục tình trạng này sớm!
 ## Cập nhật bản vá bảo mật MFM 1.1.13 (ngày 26/05/2021)
 - Cập nhật bản vá bảo mật phát hiện tối ngày 25/05/2021
 - Cập nhật kiểu thông báo mới
