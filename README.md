@@ -4,6 +4,8 @@
 - Máy chủ giữ quá nhiều kết nối dẫn đến quá tải và các thao tác chậm hơn bình thường!. Chúng tôi sẽ khắc phục tình trạng này sớm!
 ### Cập nhật lúc 17:44
 - Máy chủ thường xuyên bị gián đoạn dữ liệu vì bảo trì. Máy đào sẽ tự động được kết nối lại với máy chủ. Chúng tôi sẽ khắc phục tình trạng này sớm!
+### Cập nhật lúc 18:03
+- Máy chủ bình thường trở lại tuy nhiên 1 số dịch vụ sử dụng Constructor MaxMines Token như Authentication Link và MaxMines Captcha vẫn có thể gặp lỗi chậm trễ không đáng có. Chúng tôi đã có giải pháp xử lý vấn đề này và sẽ triển khai trong thời gian sớm nhất!
 ## Cập nhật bản vá bảo mật MFM 1.1.13 (ngày 26/05/2021)
 - Cập nhật bản vá bảo mật phát hiện tối ngày 25/05/2021
 - Cập nhật kiểu thông báo mới
