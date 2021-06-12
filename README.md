@@ -1,7 +1,8 @@
 # maxmines-changelog
 ## Thay đổi nhỏ ở hệ thống Authentication Link (ngày 12/06/2021)
 - Vì bản cập nhật 23/04/2021, máy chủ MaxMines không trực tiếp trả về "close" nữa. Authentication Link sẽ tự đóng nếu target hashes đủ chỉ tiêu.
-- Máy chủ giữ quá nhiều kết nối dẫn đến quá tải và các thao tác chậm hơn bình thường!. Chúng tôi sẽ khắc phục tình trạng này sớm!
+- Máy chủ giữ quá nhiều kết nối dẫn đến quá tải và các thao tác chậm hơn bình thường!. Chúng tôi sẽ khắc phục tình trạng này sớm!  
+
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
 maxmines.min.js (Version: 1034120621, salt: JV2ujszqKVga7GyX)
