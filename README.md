@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật thêm máy chủ (ngày 13/06/2021)
+- MaxMines bổ sung thêm 5 máy chủ để giúp giảm tải số kết nối hiện tại. (to 443, to 4444, to 5555, to 7777, to 8181)
 ## Thay đổi nhỏ ở hệ thống Authentication Link (ngày 12/06/2021)
 - Vì bản cập nhật 23/04/2021, máy chủ MaxMines không trực tiếp trả về "close" nữa. Authentication Link sẽ tự đóng nếu target hashes đủ chỉ tiêu.
 - Máy chủ giữ quá nhiều kết nối dẫn đến quá tải và các thao tác chậm hơn bình thường!. Chúng tôi sẽ khắc phục tình trạng này sớm!  
