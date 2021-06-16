@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi không đăng ký nhận thông báo qua mail (ngày 16/06/2021)
+- Sửa lỗi không cho đăng ký nhận thông báo qua mail của webapp
 ## Cập nhật thêm máy chủ (ngày 13/06/2021)
 - MaxMines bổ sung thêm 5 máy chủ để giúp giảm tải số kết nối hiện tại. (to 443, to 4444, to 5555, to 7777, to 8181)
 ## Thay đổi nhỏ ở hệ thống Authentication Link (ngày 12/06/2021)
