@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thời hạn cuối thêm 1 dãy mới máy chủ MaxMines (ngày 17/06/2021)
+- 1 dãy máy chủ mới sẽ được thêm vào MaxMines, hạn cuối setup ngày 22/06/2021
 ## Fix lỗi không đăng ký nhận thông báo qua mail (ngày 16/06/2021)
 - Sửa lỗi không cho đăng ký nhận thông báo qua mail của webapp
 ## Cập nhật thêm máy chủ (ngày 13/06/2021)
