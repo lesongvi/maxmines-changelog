@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật máy chủ (ngày 21/06/2021)
+- MaxMines bổ sung thêm 6 máy chủ giúp giảm tải số kết nối hiện tại. (vi 443, vi 4444, vi 5555, vi 7777, vi 8181, vi 33347)
 ## Thời hạn cuối thêm 1 dãy mới máy chủ MaxMines (ngày 17/06/2021)
 - 1 dãy máy chủ mới sẽ được thêm vào MaxMines, hạn cuối setup ngày 22/06/2021
 ## Fix lỗi không đăng ký nhận thông báo qua mail (ngày 16/06/2021)
