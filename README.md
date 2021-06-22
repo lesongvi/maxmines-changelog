@@ -1,4 +1,9 @@
 # maxmines-changelog
+## Cập nhật chính sách cho người dùng sử dụng phiên bản cũ (ngày 22/06/2021)
+- Khi chúng tôi phát hiện người dùng cố tình sử dụng phiên bản cũ hơn để khai thác (exploit) lỗi nhằm gian lận bất cứ thông số nào sẽ bị chúng tôi gắn cờ vĩnh viễn.
+- Ngoài phiên bản BASIC MaxMines (đã bị vô hiệu hóa nhiều chức năng bảo mật), chúng tôi khuyên tất cả mọi người nên cập nhật lên phiên bản mới nhất có thể ([MaxMinesMiner](https://maxmines.com/download-center), [MaxMinesQM](https://maxmines.com/download-center), [MaxMines for Mobile](https://maxmines.com/download-center), [RQN9PCMiner](https://maxmines.com/download-center), ...), hành động cố tình sử dụng kỹ thuật đảo ngược để ngăn hoạt động tự động cập nhật hoàn toàn bị nghiêm cấm.
+- MaxMines BASIC đã bị vô hiệu hóa 80% chức năng, khuyến khích mọi người chuyển qua phiên bản mới là [MaxMines Webapp V2](https://maxmines.com).
+- Thư viện Javascript của MaxMines bắt buộc phải được cập nhật để có thể bắt đầu máy đào, các phiên bản MaxMines và CachedMine mới nhất hiện tại lần lượt là (Version/salt): **2029210621/BfJdH6X6PQc2e4g7**, **2030210621/wSjkbYbV64E4DpaE**
 ## Cập nhật máy chủ (ngày 21/06/2021)
 - MaxMines bổ sung thêm 6 máy chủ giúp giảm tải số kết nối hiện tại. (vi 443, vi 4444, vi 5555, vi 7777, vi 8181, vi 33347)  
   
