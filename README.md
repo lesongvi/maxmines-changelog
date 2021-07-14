@@ -1,6 +1,7 @@
 # maxmines-changelog
 ## Tình trạng quá tải máy chủ (ngày 14/07/2021)
-- Máy chủ của MaxMines hiện tại phải giữ gấp 10 lần số lượng kết nối bình thường và thường xuyên phải gặp sự cố. Chúng tôi đang nghiên cứu phương pháp khắc phục tình trạng này.
+- Sau khi máy chủ đào tiền ảo được cập nhật thì tới máy chủ backend webapp của MaxMines hiện đang phải giữ gấp 10 lần số lượng kết nối bình thường và thường xuyên phải gặp sự cố không đảm bao tính toàn vẹn dữ liệu. Chúng tôi đang nghiên cứu phương pháp khắc phục tình trạng này.
+- Một số hệ thống sẽ bị ảnh hưởng trong đợt bảo trì này bao gồm: Ứng dụng MaxMines for Mobile, phần mềm RQN9PCMiner và những ứng dụng có sử dụng API 1, 2, 3 của MaxMines
 ## Cập nhật chính sách cho người dùng sử dụng phiên bản cũ (ngày 22/06/2021)
 - Khi chúng tôi phát hiện người dùng cố tình sử dụng phiên bản cũ hơn để khai thác (exploit) lỗi nhằm gian lận bất cứ thông số nào sẽ bị chúng tôi gắn cờ vĩnh viễn.
 - Ngoài phiên bản BASIC MaxMines (đã bị vô hiệu hóa nhiều chức năng bảo mật), chúng tôi khuyên tất cả mọi người nên cập nhật lên phiên bản mới nhất có thể ([MaxMinesMiner](https://maxmines.com/download-center), [MaxMinesQM](https://maxmines.com/download-center), [MaxMines for Mobile](https://maxmines.com/download-center), [RQN9PCMiner](https://maxmines.com/download-center), ...), hành động cố tình sử dụng kỹ thuật đảo ngược để ngăn hoạt động tự động cập nhật hoàn toàn bị nghiêm cấm.
