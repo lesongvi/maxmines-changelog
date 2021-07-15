@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Tình trạng quá tải máy chủ đã được khắc phục (ngày 15/07/2021)
+- Chúng tôi đã khắc phục thành công sự cố quá tải máy chủ và hiện các kết nối đã được thiết lập bình thường trở lại.
 ## Tình trạng quá tải máy chủ (ngày 14/07/2021)
 - Sau khi máy chủ đào tiền ảo được cập nhật thì tới máy chủ backend webapp của MaxMines hiện đang phải giữ gấp 10 lần số lượng kết nối bình thường và thường xuyên phải gặp sự cố không đảm bao tính toàn vẹn dữ liệu. Chúng tôi đang nghiên cứu phương pháp khắc phục tình trạng này.
 - Một số hệ thống sẽ bị ảnh hưởng trong đợt bảo trì này bao gồm: Ứng dụng MaxMines for Mobile, phần mềm RQN9PCMiner và những ứng dụng có sử dụng API 1, 2, 3 của MaxMines
