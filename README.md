@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update MaxMines For Mobile (ngày 19/07/2020)
+- Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.2.3
 ## Tình trạng quá tải máy chủ đã được khắc phục (ngày 15/07/2021)
 - Chúng tôi đã khắc phục thành công sự cố quá tải máy chủ và hiện các kết nối đã được thiết lập bình thường trở lại.
 ## Tình trạng quá tải máy chủ (ngày 14/07/2021)
