@@ -1,7 +1,7 @@
 # maxmines-changelog
 ## Máy chủ gặp sự cố (ngày 01/08/2021)
 - Máy chủ gặp sự cố, chúng tôi đang cố gắng sửa chữa và sẽ hoàn thành trong thời gian sớm nhất!
-- Máy chủ to 443 và vi 443 được thay thế bằng to 6666 và vi 6666.
+- Máy chủ to 443 và vi 443 được thay thế bằng to 6666 và vi 6666.  
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
 maxmines.min.js (Version: 1129010820, salt: ZyrHMmgNWqAK4nMJ)
