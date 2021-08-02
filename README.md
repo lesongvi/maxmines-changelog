@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Update MaxMines For Mobile (ngày 02/08/2020)
+- Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.3.3
 ## Máy chủ gặp sự cố (ngày 01/08/2021)
 - Máy chủ gặp sự cố, chúng tôi đang cố gắng sửa chữa và sẽ hoàn thành trong thời gian sớm nhất!
 - Máy chủ to 443 và vi 443 được thay thế bằng to 6666 và vi 6666.  
