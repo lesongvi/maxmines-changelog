@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cloud NoteVN hỗ trợ bản vá tháng 8 (ngày 04/08/2020)
+- Cloud NoteVN có cập nhật để hộ trợ bản vá tháng 8 của MaxMines.
 ## Quá trình cập nhật bản vá tháng 8 (ngày 03/08/2020)
 - Bản vá tháng 8 sẽ tập trung vào máy chủ và webapp MaxMines nhằm cải thiện giao diện trực quan người dùng, tăng tốc độ kết nối máy chủ...
 - **Phần trăm cập nhật**: **20%**
