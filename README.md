@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Quá trình cập nhật bản vá tháng 8 (ngày 03/08/2020)
+- Bản vá tháng 8 sẽ tập trung vào máy chủ và webapp MaxMines nhằm cải thiện giao diện trực quan người dùng, tăng tốc độ kết nối máy chủ...
+- **Phần trăm cập nhật**: **20%**
 ## Update MaxMines For Mobile (ngày 02/08/2020)
 - Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.3.3
 ## Máy chủ gặp sự cố (ngày 01/08/2021)
