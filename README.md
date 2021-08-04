@@ -1,10 +1,15 @@
 # maxmines-changelog
+## Cập nhật tường lửa máy chủ (ngày 05/08/2020)
+- Cập nhật tường lửa cho máy chủ chuyên dụng của MaxMines
+- Cập nhật chức năng xem thiết bị di động, quản lý tổ chức mới
+- Cập nhật nội dung *Chính sách bảo mật*
+- **Phần trăm cập nhật bản vá tháng 8**: **85%**
 ## Cloud NoteVN hỗ trợ bản vá tháng 8 (ngày 04/08/2020)
 - Cloud NoteVN có cập nhật để hỗ trợ bản vá tháng 8 của MaxMines.
-- **Phần trăm cập nhật**: **65%**
+- **Phần trăm cập nhật bản vá tháng 8**: **65%**
 ## Quá trình cập nhật bản vá tháng 8 (ngày 03/08/2020)
 - Bản vá tháng 8 sẽ tập trung vào máy chủ và webapp MaxMines nhằm cải thiện giao diện trực quan người dùng, tăng tốc độ kết nối máy chủ...
-- **Phần trăm cập nhật**: **20%**
+- **Phần trăm cập nhật bản vá tháng 8**: **20%**
 ## Update MaxMines For Mobile (ngày 02/08/2020)
 - Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.3.3
 ## Máy chủ gặp sự cố (ngày 01/08/2021)
