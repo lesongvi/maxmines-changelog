@@ -1,4 +1,8 @@
 # maxmines-changelog
+## Hoàn thành cập nhật bản vá tháng 8 (ngày 06/08/2020)
+- Cập nhật toolbar miner và cho 1 số activity khác của MFM
+- Cập nhật giao diện tối cho MFM
+- **Phần trăm cập nhật bản vá tháng 8**: **100%**
 ## Cập nhật tường lửa máy chủ (ngày 05/08/2020)
 - Cập nhật tường lửa cho máy chủ chuyên dụng của MaxMines
 - Cập nhật chức năng xem thiết bị di động, quản lý tổ chức mới
