@@ -2,6 +2,7 @@
 ## Hoàn thành cập nhật bản vá tháng 8 (ngày 06/08/2020)
 - Cập nhật toolbar miner và cho 1 số activity khác của MFM
 - Cập nhật giao diện tối cho MFM
+- Hiện hashrate của widget API Key chỉ trả về giá trị trong 7 ngày gần nhất (trước đây là toàn bộ thời gian), các dữ liệu hashrate của các chức năng khác vẫn được giữ nguyên.
 - **Phần trăm cập nhật bản vá tháng 8**: **100%**
 ## Cập nhật tường lửa máy chủ (ngày 05/08/2020)
 - Cập nhật tường lửa cho máy chủ chuyên dụng của MaxMines
