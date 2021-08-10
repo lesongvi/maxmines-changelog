@@ -27,7 +27,7 @@
 maxmines.min.js (Version: 1129010820, salt: ZyrHMmgNWqAK4nMJ)
 cachedmine.min.js (Version: 1131010820, salt: smcH8ZPQ6uF3VtVj)
 ```
-## Update MaxMines For Mobile (ngày 19/07/2020)
+## Update MaxMines For Mobile (ngày 19/07/2021)
 - Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.2.3
 ## Tình trạng quá tải máy chủ đã được khắc phục (ngày 15/07/2021)
 - Chúng tôi đã khắc phục thành công sự cố quá tải máy chủ và hiện các kết nối đã được thiết lập bình thường trở lại.
