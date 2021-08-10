@@ -1,21 +1,23 @@
 # maxmines-changelog
-## Hoàn thành cập nhật bản vá tháng 8 (ngày 06/08/2020)
+## Cập nhật tường lửa máy chủ (ngày 10/08/2021)
+- Cập nhật tường lửa máy chủ tránh bị flood khi lượng kết nối quá lớn.
+## Hoàn thành cập nhật bản vá tháng 8 (ngày 06/08/2021)
 - Cập nhật toolbar miner và cho 1 số activity khác của MFM
 - Cập nhật giao diện tối cho MFM
 - Hiện hashrate của widget API Key chỉ trả về giá trị trong 7 ngày gần nhất (trước đây là toàn bộ thời gian), các dữ liệu hashrate của các chức năng khác vẫn được giữ nguyên.
 - **Phần trăm cập nhật bản vá tháng 8**: **100%**
-## Cập nhật tường lửa máy chủ (ngày 05/08/2020)
+## Cập nhật tường lửa máy chủ (ngày 05/08/2021)
 - Cập nhật tường lửa cho máy chủ chuyên dụng của MaxMines
 - Cập nhật chức năng xem thiết bị di động, quản lý tổ chức mới
 - Cập nhật nội dung *Chính sách bảo mật*
 - **Phần trăm cập nhật bản vá tháng 8**: **85%**
-## Cloud NoteVN hỗ trợ bản vá tháng 8 (ngày 04/08/2020)
+## Cloud NoteVN hỗ trợ bản vá tháng 8 (ngày 04/08/2021)
 - Cloud NoteVN có cập nhật để hỗ trợ bản vá tháng 8 của MaxMines.
 - **Phần trăm cập nhật bản vá tháng 8**: **65%**
-## Quá trình cập nhật bản vá tháng 8 (ngày 03/08/2020)
+## Quá trình cập nhật bản vá tháng 8 (ngày 03/08/2021)
 - Bản vá tháng 8 sẽ tập trung vào máy chủ và webapp MaxMines nhằm cải thiện giao diện trực quan người dùng, tăng tốc độ kết nối máy chủ...
 - **Phần trăm cập nhật bản vá tháng 8**: **20%**
-## Update MaxMines For Mobile (ngày 02/08/2020)
+## Update MaxMines For Mobile (ngày 02/08/2021)
 - Cập nhật ứng dụng MaxMines For Mobile lên phiên bản 1.3.3
 ## Máy chủ gặp sự cố (ngày 01/08/2021)
 - Máy chủ gặp sự cố, chúng tôi đang cố gắng sửa chữa và sẽ hoàn thành trong thời gian sớm nhất!
