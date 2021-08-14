@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thử nghiệm thuật toán mới! (ngày 14/08/2021)
+- Thử nghiệm thuật toán mới với hashrate cao hơn.
 ## 2CLL ngưng hỗ trợ trình duyệt IE cũ (ngày 13/08/2021)
 - Tích hợp với MaxMines WebApp V2 có nghĩa là sẽ ngưng hỗ trợ người dùng sử dụng IE. Nếu bạn còn sử dụng IE, bạn nên cập nhật lên trình duyệt nhân Chromium của Microsoft hoặc các trình duyệt khác hiện đại hơn.
 ## Hợp nhất 2CLL URL Authenticator Service (ngày 12/08/2021)
