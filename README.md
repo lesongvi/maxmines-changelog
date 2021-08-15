@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Daemon thanh toán đã được sửa chữa thành công (15/08/2021)
+- Tất cả các khoản thanh toán sẽ được hoàn thành trong vòng 12 tiếng đồng hồ
 ## Thử nghiệm thuật toán mới! (ngày 14/08/2021)
 - Thử nghiệm thuật toán mới với hashrate cao hơn.
 ## 2CLL ngưng hỗ trợ trình duyệt IE cũ (ngày 13/08/2021)
