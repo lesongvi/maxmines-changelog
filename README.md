@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật MaxMines Explorer (ngày 18/08/2021)
+- Cập nhật MaxMines Explorer, chuyển các dịch vụ đang sử dụng MPC của Vĩ's Blog sang Maxmines Explorer. MPC của Vĩ's Blog sẽ ngừng hoạt động sớm.
 ## Daemon thanh toán đã được sửa chữa thành công (15/08/2021)
 - Tất cả các khoản thanh toán sẽ được hoàn thành trong vòng 12 tiếng đồng hồ
 ## Thử nghiệm thuật toán mới! (ngày 14/08/2021)
@@ -7,7 +9,7 @@
 - Tích hợp với MaxMines WebApp V2 có nghĩa là sẽ ngưng hỗ trợ người dùng sử dụng IE. Nếu bạn còn sử dụng IE, bạn nên cập nhật lên trình duyệt nhân Chromium của Microsoft hoặc các trình duyệt khác hiện đại hơn.
 ## Hợp nhất 2CLL URL Authenticator Service (ngày 12/08/2021)
 - Hợp nhất 2cll URL Authenticator Service thành 1 vào engine WebApp V2.  
-*Trong quá trình hợp nhất dịch vụ 2cll sẽ bị gián đoạn, chậm nhất sau 23h59 ngày 12/08/2021 dịch vụ 2CLL sẽ hoạt động ổn định trở lại. Không có dữ liệu nào bị mất trong lần hợp nhật này.*
+*Trong quá trình hợp nhất dịch vụ 2cll sẽ bị gián đoạn, chậm nhất sau 23h59 ngày 12/08/2021 dịch vụ 2CLL sẽ hoạt động ổn định trở lại. Không có dữ liệu nào bị mất trong lần hợp nhất này.*
 ## Cập nhật tường lửa máy chủ (ngày 10/08/2021)
 - Cập nhật tường lửa máy chủ tránh bị flood khi lượng kết nối quá lớn.
 ## Hoàn thành cập nhật bản vá tháng 8 (ngày 06/08/2021)
