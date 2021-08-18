@@ -1,7 +1,7 @@
 # maxmines-changelog
 ## Cập nhật MaxMines Explorer (ngày 18/08/2021)
 - Cập nhật MaxMines Explorer, chuyển các dịch vụ đang sử dụng MPC của Vĩ's Blog sang Maxmines Explorer. MPC của Vĩ's Blog sẽ ngừng hoạt động sớm.
-## Daemon thanh toán đã được sửa chữa thành công (15/08/2021)
+## Daemon thanh toán đã được sửa chữa thành công (ngày 15/08/2021)
 - Tất cả các khoản thanh toán sẽ được hoàn thành trong vòng 12 tiếng đồng hồ
 ## Thử nghiệm thuật toán mới! (ngày 14/08/2021)
 - Thử nghiệm thuật toán mới với hashrate cao hơn.
