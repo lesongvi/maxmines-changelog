@@ -1,6 +1,6 @@
 # maxmines-changelog
 ## Bảo trì Mining Proxies (ngày 08/09/2021)
-- Bảo trì Mining Proxies, nếu bạn đang sử dụng Mining Proxies vui lòng chuyển qua các phương pháp tạm thời khác.
+- Bảo trì Mining Proxies, nếu bạn đang sử dụng Mining Proxies vui lòng chuyển qua các phương pháp tạm thời khác. Chúng tôi sẽ cố gắng hoàn thành trong thời gian sớm nhất!
 ## Cập nhật MaxMines Explorer (ngày 18/08/2021)
 - Cập nhật MaxMines Explorer, chuyển các dịch vụ đang sử dụng MPC của Vĩ's Blog sang Maxmines Explorer. MPC của Vĩ's Blog sẽ ngừng hoạt động sớm.
 ## Daemon thanh toán đã được sửa chữa thành công (ngày 15/08/2021)
