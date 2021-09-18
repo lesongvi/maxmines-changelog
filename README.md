@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MaxMines Data VAX (ngày 18/09/2021)
+- VAX update
 ## Bảo trì Mining Proxies (ngày 08/09/2021)
 - Bảo trì Mining Proxies, nếu bạn đang sử dụng Mining Proxies vui lòng chuyển qua các phương pháp tạm thời khác. Chúng tôi sẽ cố gắng hoàn thành trong thời gian sớm nhất!
 ## Cập nhật MaxMines Explorer (ngày 18/08/2021)
