@@ -1,4 +1,11 @@
 # maxmines-changelog
+## Hoàn tất báo trì Mining Proxies và cập nhật thư viện MaxMines (21/09/2021)
+- Hoàn tất bảo trì Mining Proxies. Mining Proxies đã hoạt động bình thường trở lại.  
+**Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
+```
+maxmines.min.js (Version: 2101210921, salt: WHrrYXhm49yOQub0)
+cachedmine.min.js (Version: 2104210921, salt: gBDvhFSCyMCO4WeY)
+```
 ## MaxMines Data VAX (ngày 18/09/2021)
 - VAX update
 ## Bảo trì Mining Proxies (ngày 08/09/2021)
