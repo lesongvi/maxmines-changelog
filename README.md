@@ -1,5 +1,7 @@
 # maxmines-changelog
-## Hoàn tất báo trì Mining Proxies và cập nhật thư viện MaxMines (21/09/2021)
+## Cập nhật chính sách bảo mật (ngày 22/09/2021)
+- Chính sách bảo mật được cập nhật thêm một số thông tin mới theo yêu cầu của các nền tảng có liên kết.
+## Hoàn tất báo trì Mining Proxies và cập nhật thư viện MaxMines (ngày 21/09/2021)
 - Hoàn tất bảo trì Mining Proxies. Mining Proxies đã hoạt động bình thường trở lại.  
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
