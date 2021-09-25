@@ -2,8 +2,8 @@
 ## Cập nhật nhỏ thư viện (ngày 25/09/2021)
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
-maxmines.min.js (Version: 1950250921, salt: VBGRHYKyQbjWg5iK)
-cachedmine.min.js (Version: 1957250921, salt: M4i6GWdqjqKlUT00)
+maxmines.min.js (Version: 2224250921, salt: 4wYtJY1EC8uyIk5x)
+cachedmine.min.js (Version: 2216250921, salt: Jj1k62gqOvcvTnoG)
 ```
 ## Bảo trì sự cố và cập nhật máy chủ (ngày 24/09/2021)
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
