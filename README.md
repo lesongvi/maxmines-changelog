@@ -1,4 +1,10 @@
 # maxmines-changelog
+## Cập nhật bảo mật máy chủ (ngày 26/09/2021)
+**Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
+```
+maxmines.min.js (Version: 1021260921, salt: fyWBdLVt4xbi4hto)
+cachedmine.min.js (Version: 1023260921, salt: 9tUJddoWg01xaCe9)
+```
 ## Cập nhật nhỏ thư viện (ngày 25/09/2021)
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
