@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi bảo mật 2 bước (ngày 02/10/2021)
+- Fix lỗi tạo mã QR bảo mật 2 bước.
 ## Cập nhật bảo mật máy chủ (ngày 26/09/2021)
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
