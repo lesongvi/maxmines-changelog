@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Cập nhật bảo mật webapp (ngày 03/10/2021)
+- Cập nhật bảo mật webapp nhằm tăng khả năng bảo mật thông tin người dùng trước một số các mối đe dọa phía client.
+```4d1b6645fdb2942d6e313a65b18873f87b52dee6```
 ## Fix lỗi bảo mật 2 bước (ngày 02/10/2021)
 - Fix lỗi tạo mã QR bảo mật 2 bước.
 - DST Root CA X3 hết hạn hôm nay
