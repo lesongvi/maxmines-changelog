@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Máy chủ thống kê hoạt động bình thường trở lại (ngày 15/10/2021)
+- Máy chủ thống kê đã hoạt động bình thường trở lại.
 ## Cập nhật bảo mật webapp (ngày 03/10/2021)
 - Cập nhật bảo mật webapp nhằm tăng khả năng bảo mật thông tin người dùng trước một số các mối đe dọa phía client.
 ```4d1b6645fdb2942d6e313a65b18873f87b52dee6```
