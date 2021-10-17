@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Bản vá tháng 10 (ngày 17/10/2021)
+- Nếu bạn phát hiện ra lỗi của nền tảng vui lòng gửi một yêu cầu trợ giúp đến [MaxMines Support Center](https://maxmines.com/support/cases). Chúng tôi sẽ chuyển cho bạn một số lượng XMR tùy theo tính nghiêm trọng của bug mà bạn phát hiện được.
 ## Máy chủ thống kê hoạt động bình thường trở lại (ngày 15/10/2021)
 - Máy chủ thống kê đã hoạt động bình thường trở lại.
 ## Cập nhật bảo mật webapp (ngày 03/10/2021)
