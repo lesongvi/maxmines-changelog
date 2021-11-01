@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi thị trường (ngày 01/11/2021)
+- Đã fix lỗi hiển thị dữ liệu của một số đồng coin trong dashboard
 ## Tạm hoãn cập nhật phiên bản V3 (ngày 27/10/2021)
 - Tạm hoãn cập nhật phiên bản V3
 ## Fix lỗi báo cáo (ngày 23/10/2021)
