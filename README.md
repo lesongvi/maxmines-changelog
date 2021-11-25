@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Cập nhật tài liệu tích hợp (ngày 25/11/2021)
+- Cập nhật tài liệu tích hợp mới
 ## Cập nhật ứng dụng MaxMines for Mobile phiên bản 1.3.9 (ngày 14/11/2021)
 - Cập nhật mới panel điều khiển máy đào qua notification panel
 - Chuẩn bị cho bản cập nhật Engine máy đào mới dành cho thiết bị di động, dự kiến 2 engine sẽ chạy tách biệt trong cùng một ứng dụng.
