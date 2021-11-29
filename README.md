@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Hoàn tất 80% bảo trì toàn hệ thống (ngày 29/11/2021)
+- Hoàn tất bảo trì 80% toàn hệ thống MaxMines. Các dịch vụ vẫn đang gặp sự cố: Xác thực liên kết và CachedMine
 ## Cập nhật tài liệu tích hợp (ngày 25/11/2021)
 - Cập nhật tài liệu tích hợp mới
 ## Cập nhật ứng dụng MaxMines for Mobile phiên bản 1.3.9 (ngày 14/11/2021)
