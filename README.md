@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Bảo trì chức năng xác minh liên kết (ngày 14/12/2021)
+- Bảo trì chức năng xác minh liên kết
 ## Hoàn tất 80% bảo trì toàn hệ thống (ngày 29/11/2021)
 - Hoàn tất bảo trì 80% toàn hệ thống MaxMines. Các dịch vụ vẫn đang gặp sự cố: Xác thực liên kết và CachedMine
 ## Cập nhật tài liệu tích hợp (ngày 25/11/2021)
