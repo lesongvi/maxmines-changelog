@@ -1,19 +1,21 @@
 # maxmines-changelog
+## Máy chủ quá tải (ngày 15/12/2021)
+- Máy chủ bị quá tải, chúng tôi sẽ cố gắng khắc phục trong thời gian sớm nhất. Chi tiết vui lòng xem tại [MaxMines Status](https://status.maxmines.com).
 ## Bảo trì chức năng xác minh liên kết (ngày 14/12/2021)
-- Bảo trì chức năng xác minh liên kết
+- Bảo trì chức năng xác minh liên kết.
 ## Hoàn tất 80% bảo trì toàn hệ thống (ngày 29/11/2021)
-- Hoàn tất bảo trì 80% toàn hệ thống MaxMines. Các dịch vụ vẫn đang gặp sự cố: Xác thực liên kết và CachedMine
+- Hoàn tất bảo trì 80% toàn hệ thống MaxMines. Các dịch vụ vẫn đang gặp sự cố: Xác thực liên kết và CachedMine.
 ## Cập nhật tài liệu tích hợp (ngày 25/11/2021)
-- Cập nhật tài liệu tích hợp mới
+- Cập nhật tài liệu tích hợp mới.
 ## Cập nhật ứng dụng MaxMines for Mobile phiên bản 1.3.9 (ngày 14/11/2021)
 - Cập nhật mới panel điều khiển máy đào qua notification panel
 - Chuẩn bị cho bản cập nhật Engine máy đào mới dành cho thiết bị di động, dự kiến 2 engine sẽ chạy tách biệt trong cùng một ứng dụng.
 ## Fix lỗi thị trường (ngày 01/11/2021)
-- Đã fix lỗi hiển thị dữ liệu của một số đồng coin trong dashboard
+- Đã fix lỗi hiển thị dữ liệu của một số đồng coin trong dashboard.
 ## Tạm hoãn cập nhật phiên bản V3 (ngày 27/10/2021)
-- Tạm hoãn cập nhật phiên bản V3
+- Tạm hoãn cập nhật phiên bản V3.
 ## Fix lỗi báo cáo (ngày 23/10/2021)
-- Fix lỗi công cụ thời gian không hiển thị chính xác
+- Fix lỗi công cụ thời gian không hiển thị chính xác.
 ## Bản vá tháng 10 (ngày 17/10/2021)
 - Nếu bạn phát hiện ra lỗi của nền tảng vui lòng gửi một yêu cầu trợ giúp đến [MaxMines Support Center](https://maxmines.com/support/cases). Chúng tôi sẽ chuyển cho bạn một số lượng XMR tùy theo tính nghiêm trọng của bug mà bạn phát hiện được.
 ## Máy chủ thống kê hoạt động bình thường trở lại (ngày 15/10/2021)
@@ -23,7 +25,7 @@
 ```4d1b6645fdb2942d6e313a65b18873f87b52dee6```
 ## Fix lỗi bảo mật 2 bước (ngày 02/10/2021)
 - Fix lỗi tạo mã QR bảo mật 2 bước.
-- DST Root CA X3 hết hạn hôm nay
+- DST Root CA X3 hết hạn hôm nay.
 ## Cập nhật bảo mật máy chủ (ngày 26/09/2021)
 **Nếu bạn là self-hosting, bạn cần chú ý các file được cập nhật. Nếu bạn sử dụng Mining Proxy, bạn không cần phải làm gì cả:**
 ```
