@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi tỷ lệ chuyển đổi (ngày 22/12/2021)
+- Đã fix lỗi tỷ lệ chuyển đổi trả về ký tự rỗng.
 ## Máy chủ quá tải (ngày 15/12/2021)
 - Máy chủ bị quá tải, chúng tôi sẽ cố gắng khắc phục trong thời gian sớm nhất. Chi tiết vui lòng xem tại [MaxMines Status](https://status.maxmines.com).
 ## Bảo trì chức năng xác minh liên kết (ngày 14/12/2021)
