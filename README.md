@@ -1,4 +1,7 @@
 # maxmines-changelog
+## Cập nhật Uptime calendar (ngày 23/12/2021)
+**Trước hết, hôm nay là một ngày đặc biệt :)**
+- Cập nhật Uptime calendar.
 ## Fix lỗi tỷ lệ chuyển đổi (ngày 22/12/2021)
 - Đã fix lỗi tỷ lệ chuyển đổi trả về ký tự rỗng.
 ## Máy chủ quá tải (ngày 15/12/2021)
