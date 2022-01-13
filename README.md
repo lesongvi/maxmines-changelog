@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi MaxMines SubStatusPage (ngày 13/01/2022)
+- Fix lỗi MaxMines SubStatusPage không tính toán dữ liệu trên EP Calendar
 ## 2CLL chuyển đổi thành MXMS (ngày 03/01/2022)
 - Hệ thống 2CLL Authenticate đã được đổi tên thành MXMS Authenticate
 ## Cập nhật Uptime calendar (ngày 23/12/2021)
