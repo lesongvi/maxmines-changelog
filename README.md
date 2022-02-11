@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Fix lỗi bug vị trí (ngày 11/02/2022)
+- Fix lỗi vị trí trong issue 110221
 ## Fix lỗi MaxMines SubStatusPage (ngày 13/01/2022)
 - Fix lỗi MaxMines SubStatusPage không tính toán dữ liệu trên EP Calendar
 ## 2CLL chuyển đổi thành MXMS (ngày 03/01/2022)
