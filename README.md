@@ -1,4 +1,6 @@
 # maxmines-changelog
+## Thủ nghiệm nhỏ trong thuật toán mới (ngày 05/03/2022)
+- Thử nghiệm thay đổi nhỏ trong thuật toán
 ## Fix lỗi bug vị trí (ngày 11/02/2022)
 - Fix lỗi vị trí trong issue 110221
 ## Fix lỗi MaxMines SubStatusPage (ngày 13/01/2022)
