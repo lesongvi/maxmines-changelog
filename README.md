@@ -1,4 +1,16 @@
 # maxmines-changelog
+## Bản cập nhật tháng 9 đã đến với MaxMines! (17/09/2022)
+- Cập nhật nhiều chức năng mới như app-mobiles promotion, MaxMines mining software promotion
+- MiningAffiliate đã được hỗ trợ
+- Trading đã hoạt động
+- Code Generator Lite đã hoạt động
+- MaxMines Widgets đã hoạt động
+- MaxTape đã hoạt động cùng với nhiều kiến thức cực bổ ích và mở rộng
+- Miner và tools có item mới (check it out!)
+- MaxMinesQM đã có cập nhật phiên bản mới.
+- MaxMines Documentation đã được cập nhật phiên bản mới nhất
+- MaxMines Mobile có giao diện mới và nhiều chức năng mới
+- Auth0 cùng nhiều chức năng khác hỗ trợ người dùng việc đào tiền ảo dễ dàng và nhanh chóng hơn!... For more detail please access maxmines.com.
 ## Thủ nghiệm nhỏ trong thuật toán mới (ngày 05/03/2022)
 - Thử nghiệm thay đổi nhỏ trong thuật toán
 ## Fix lỗi bug vị trí (ngày 11/02/2022)
