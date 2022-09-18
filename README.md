@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MaxMinesQM cập nhật phiên bản 55
+- MaxMinesQM cập nhật sửa lỗi crash khi bắt đầu đào
 ## Bản cập nhật tháng 9 đã đến với MaxMines! (17/09/2022)
 - Cập nhật nhiều chức năng mới như app-mobiles promotion, MaxMines mining software promotion
 - MiningAffiliate đã được hỗ trợ
