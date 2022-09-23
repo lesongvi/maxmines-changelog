@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MaxMinesQM cập nhật phiên bản 57 (20/09/2022)
+- MaxMinesQM cập nhật sửa lỗi crash khi cài đặt library.
 ## MaxMinesQM cập nhật phiên bản 55 (18/09/2022)
 - MaxMinesQM cập nhật sửa lỗi crash khi bắt đầu đào
 ## Bản cập nhật tháng 9 đã đến với MaxMines! (17/09/2022)
