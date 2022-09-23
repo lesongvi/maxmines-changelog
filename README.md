@@ -1,9 +1,11 @@
 # maxmines-changelog
-## MaxMinesQM cập nhật phiên bản 57 (20/09/2022)
+## Cập nhật mail login cho staff (ngày 23/09/2022)
+- Cập nhật mail login page cho MaxMines's staff
+## MaxMinesQM cập nhật phiên bản 57 (ngày 20/09/2022)
 - MaxMinesQM cập nhật sửa lỗi crash khi cài đặt library.
-## MaxMinesQM cập nhật phiên bản 55 (18/09/2022)
+## MaxMinesQM cập nhật phiên bản 55 (ngày 18/09/2022)
 - MaxMinesQM cập nhật sửa lỗi crash khi bắt đầu đào
-## Bản cập nhật tháng 9 đã đến với MaxMines! (17/09/2022)
+## Bản cập nhật tháng 9 đã đến với MaxMines! (ngày 17/09/2022)
 - Cập nhật nhiều chức năng mới như app-mobiles promotion, MaxMines mining software promotion
 - MiningAffiliate đã được hỗ trợ
 - Trading đã hoạt động
