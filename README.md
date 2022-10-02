@@ -1,4 +1,6 @@
 # maxmines-changelog
+## MaxMinesQM v1.0.17.0 (ngày 02/10/2022)
+- Thử nghiệm MaxMinesQM không giới hạn
 ## Cập nhật mail login cho staff (ngày 23/09/2022)
 - Cập nhật mail login page cho MaxMines's staff
 ## MaxMinesQM cập nhật phiên bản 57 (ngày 20/09/2022)
