@@ -28,7 +28,6 @@
 ## 2CLL chuyển đổi thành MXMS (ngày 03/01/2022)
 - Hệ thống 2CLL Authenticate đã được đổi tên thành MXMS Authenticate
 ## Cập nhật Uptime calendar (ngày 23/12/2021)
-**Trước hết, hôm nay là một ngày đặc biệt :)**
 - Cập nhật Uptime calendar.
 ## Fix lỗi tỷ lệ chuyển đổi (ngày 22/12/2021)
 - Đã fix lỗi tỷ lệ chuyển đổi trả về ký tự rỗng.
@@ -194,7 +193,6 @@ Lưu ý, hệ thống Basic MaxMines không còn được phát triển nữa v�
 ## Chính thức xóa hệ thống liên hệ V1 (ngày 30/04/2021)
 - Sau 1 năm, dữ liệu hỗ trợ của hệ thống liên hệ cũ đã bị xóa hoàn toàn để chuyển qua [hệ thống hỗ trợ mới](https://maxmines.com/support/cases), tương tác với hỗ trợ viên nhiều hơn và dễ dàng theo dõi tiến độ hỗ trợ hơn.
 ## Đợt cập nhật tháng 5 sắp tới (ngày 27/04/2021)
-**Trước hết, hôm nay là một ngày rất đặc biệt :)**
 - Cần sự [đóng góp ý kiến của người dùng](https://forms.gle/wMyp9xbjpu8mfpYy6) để cải thiện Mining Tab và ứng dụng MaxMines for Mobile.
 ## Sự cố máy chủ và cập nhật nhỏ (ngày 23/04/2021)
 - Thời gian gần đây số lượng kết nối tới máy chủ tăng đột biến khiến máy chủ bị sự cố quá tải ở một số thời điểm trong ngày. Hiện tại đội ngũ kỹ thuật viên đang gấp rút khắc phục sự cố.
@@ -206,7 +204,6 @@ Lưu ý, hệ thống Basic MaxMines không còn được phát triển nữa v�
 <img src="https://cdn.notevn.com/9EfDUieLz.png"></img>
 - Cập nhật logger hoạt động
 ## Cập nhật báo cáo (ngày 19/04/2021)
-**Trước hết, hôm nay là một ngày đặc biệt :)**
 - Cập nhật xuất file báo cáo theo PDF, word
 - Báo cáo lịch sử hashes theo ngày
 - Báo cáo lịch sử hashes theo site key
@@ -503,7 +500,6 @@ cachedmine.min.js (Version: 1003090520, salt: Tatsiuo)
 - Fix lỗi đăng nhập tài khoản demo  
 **Lưu ý: Một số chức năng của MaxMines apk ví dụ như Quicklogin sẽ không hoạt động tốt với các phiên bản Android đời cũ, nếu có thể hãy nâng cấp phiên bản Android của bạn**
 ## Fix 0.2 beta software (ngày 27/04/2020)
-**Trước hết, hôm nay là một ngày rất đặc biệt :)**
 - Update 48 pool đào
 - Fix bug update dialog
 - Fix bug token dialog RQN9
@@ -534,7 +530,6 @@ cachedmine.min.js (Version: 1003090520, salt: Tatsiuo)
 - Cập nhật thông báo đào kèm theo hành động dừng máy ngầm  
 **Nếu bạn không thấy thông báo**: Vui lòng mở kênh thông báo "MaxMines Miner Status" để có thể thấy thông báo tình trạng máy đào, máy đào vẫn sẽ chạy ngầm nếu bạn không bật thông báo, nhưng mình khuyên là bạn nên bật nó để có trải nghiệm người dùng tốt nhất.
 ## Update Apk User Experience (ngày 19/04/2020)
-**Trước hết, hôm nay là một ngày đặc biệt :)**
 - Update Hướng dẫn sử dụng app (chỉ xuất hiện lần đầu sau khi cài app)
 - Update thông báo máy đào đang hoạt động và tự tắt khi dừng đào
 ## Mobile Quick Login (ngày 18/04/2020)
